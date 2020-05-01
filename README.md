@@ -1,2 +1,3 @@
-# Leetcode
-Leetcode solutions in C, C++, Python, Java, etc.
+#### May LeetCoding Challenge
+[Click here](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/) for problem descriptions.
+

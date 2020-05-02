@@ -1,11 +1,12 @@
-class Solution1:
+class Solution1:  # O(1)
     def numJewelsInStones(self, J: str, S: str) -> int:
         jewel = set(J)
         res = 0
         for x in S:
             if x in jewel:
-                res+=1
+                res += 1
         return res
+
 
 class Solution2:
     def numJewelsInStones(self, J: str, S: str) -> int:
@@ -19,4 +20,13 @@ class Solution2:
         for j in J:
             if j in stone_dict:
                 res += stone_dict[j]
+        return res
+
+
+class Solution3:  # O(n)
+    def numJewelsInStones(self, J: str, S: str) -> int:
+        res = 0
+        for x in S:
+            if x in J:
+                res += 1
         return res

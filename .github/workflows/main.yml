@@ -1,0 +1,14 @@
+#
+# https://help.github.com/en/actions/reference/workflow-syntax-for-github-actions
+#
+name: Actions
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Check file naming
+      run: .github/scripts/check.sh May-LeetCoding-Challenge

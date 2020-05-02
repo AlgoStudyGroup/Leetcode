@@ -14,6 +14,16 @@ class Solution {
         for(int i = 0; i<S.length(); i++){
             if(jmap.contains(S.charAt(i))) count++;
         }
+
+        /*
+        chat stone;
+        for (int i = 0; i < S.length(); i++) {
+            stone = S.charAt(i);
+            if(J.indexOf(stone) != -1){
+                count++;
+            }
+        }*/
+
         return count;
     }
 }

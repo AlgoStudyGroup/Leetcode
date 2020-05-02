@@ -1,12 +1,22 @@
-#### Summary
+# First Bad Version
+
+https://leetcode.com/problems/first-bad-version/, Easy
+
+Strategies:
+- Binary search
+
+## Binary Search
+
 A direct application of the Binary Search algorithm.
 
-#### Complexity
+Complexity:
+
 * Time complexity: O(log n).
 * Space complexity: O(1).
 
-#### Template of Binary Search (in C++)
-```
+### Template of Binary Search (in C++)
+
+```cpp
 // Return the index if the target value could be found in the array,
 // otherwise, return -1;
 int binary_search(vector<int> arr, int target) {
@@ -27,12 +37,12 @@ int binary_search(vector<int> arr, int target) {
 }
 ``` 
 
-#### Other variants
+### Other variants
 
 1. Left bound. Find the first index i such that arr[i] == target, otherwise return -1.
 
 * Using half-closed interval [L, R).
-```
+```cpp
 int left_bound_binary_Search(vector<int> arr, int target) {
     int left = 0, right = arr.size();
     while(left < right) {
@@ -54,7 +64,7 @@ int left_bound_binary_Search(vector<int> arr, int target) {
 ```
 
 * Using closed inteval [L, R]
-```
+```cpp
 int left_bound_binary_Search(vector<int> arr, int target) {
     int left = 0, right = arr.size() - 1;
     while(left <= right) {
@@ -78,7 +88,7 @@ int left_bound_binary_Search(vector<int> arr, int target) {
 2. Right bound. Find the last index i such that arr[i] == target, otherwise return -1.
 
 * Using half-closed interval [L, R).
-```
+```cpp
 int right_bound_binary_Search(vector<int> arr, int target) {
     int left = 0, right = arr.size();
     while(left < right) {
@@ -99,7 +109,7 @@ int right_bound_binary_Search(vector<int> arr, int target) {
 ```
 
 * Using closed inteval [L, R]
-```
+```cpp
 int right_bound_binary_Search(vector<int> arr, int target) {
     int left = 0, right = arr.size() - 1;
     while(left <= right) {
@@ -124,13 +134,14 @@ int right_bound_binary_Search(vector<int> arr, int target) {
 These templates are also available [here](https://github.com/jinshendan/Leetcode/tree/master/Template/Maths/Binary-Search).
 
 
-#### Remarks
+## Remarks
+
 * Use
-```
+```cpp
 mid = (right - left) / 2 + left
 ```
 instead of
-```
+```cpp
 mid = (left + right) / 2
 ```
 to avoid any overflow in intermediare calculation.

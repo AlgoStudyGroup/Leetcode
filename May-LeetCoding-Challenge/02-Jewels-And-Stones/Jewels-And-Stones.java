@@ -27,3 +27,22 @@ class Solution {
         return count;
     }
 }
+
+// String solution
+class Solution {
+	
+    public int numJewelsInStones(String J, String S) {
+        if (J == null || S==null) return 0;
+        int count = 0;
+        
+        char stone;
+        for (int i = 0; i < S.length(); i++) {
+            stone = S.charAt(i);
+            if(J.indexOf(stone) != -1){
+                count++;
+            }
+        }
+
+        return count;
+    }
+}

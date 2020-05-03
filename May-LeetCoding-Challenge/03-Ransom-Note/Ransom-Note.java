@@ -1,4 +1,4 @@
-class Solution {
+class Solution1 {
     public boolean canConstruct(String ransomNote, String magazine) {
         if(ransomNote == null || magazine == null){
             return false;
@@ -29,7 +29,7 @@ class Solution {
     }
 }
 
-class Solution {
+class Solution2 {
     public boolean canConstruct(String ransomNote, String magazine) {
         if(ransomNote == null || magazine == null){
             return false;
@@ -49,6 +49,40 @@ class Solution {
             }
         }
         
+        return true;
+    }
+}
+
+class Solution3 {
+    public boolean canConstruct(String ransomNote, String magazine) {
+        Map<Character, Integer> letters = new HashMap<>();
+        for (char c : magazine.toCharArray()) {
+            int count = letters.getOrDefault(c, 0) + 1;
+            letters.put(c, count);
+        }
+        for (char c : ransomNote.toCharArray()) {
+            int count = letters.getOrDefault(c, 0) - 1;
+            if (count < 0) {
+                return false;
+            }
+            letters.put(c, count);
+        }
+        return true;
+    }
+}
+
+class Solution4 {
+    public boolean canConstruct(String ransomNote, String magazine) {
+        int[] letters = new int[128]; // ASCII table: 128 characters
+        for (char c : magazine.toCharArray()) {
+            letters[c]++;
+        }
+        for (char c : ransomNote.toCharArray()) {
+            letters[c]--;
+            if (letters[c] < 0) {
+                return false;
+            }
+        }
         return true;
     }
 }

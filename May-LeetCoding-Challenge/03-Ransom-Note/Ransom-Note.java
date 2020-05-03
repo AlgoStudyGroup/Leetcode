@@ -71,7 +71,7 @@ class Solution3 {
     }
 }
 
-class Solution {
+class Solution4 {
     public boolean canConstruct(String ransomNote, String magazine) {
         int[] letters = new int[128]; // ASCII table: 128 characters
         for (char c : magazine.toCharArray()) {

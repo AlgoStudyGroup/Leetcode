@@ -22,7 +22,7 @@ do
     for filepath in $question_path/*
     do
         filename="${filepath##*/}"
-        if [[ "${filename}" == "${question}"* || "$filename" == "README.md" ]]
+        if [[ "${filename%.*}" == "$question" || "$filename" == "README.md" ]]
         then
             echo "  PASSED: ${filename}"
         else

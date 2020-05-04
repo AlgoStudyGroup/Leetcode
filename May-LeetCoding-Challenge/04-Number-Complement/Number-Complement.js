@@ -21,7 +21,6 @@ var findComplement = function(num) {
     var i = 1;
     while (i<num){
         i = (i<<1)+1;
-        console.log(i);
     }
     return i^num;
 };

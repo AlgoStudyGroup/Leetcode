@@ -15,3 +15,12 @@ var findComplement = function(num) {
     }
     return i;
 };
+
+// Solution 2:
+var findComplement = function(num) {
+    var i = 1;
+    while (i<num){
+        i = (i<<1)+1;
+    }
+    return i^num;
+};

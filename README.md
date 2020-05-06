@@ -13,6 +13,7 @@ Solutions in various programming languages are provided. Enjoy it.
 3. [Ransom Note](https://github.com/jinshendan/Leetcode/tree/master/May-LeetCoding-Challenge/03-Ransom-Note): Hash Table
 4. [Number Complement](https://github.com/jinshendan/Leetcode/tree/master/May-LeetCoding-Challenge/04-Number-Complement): Bitwise Manipulation
 5. [First Unique Character In a String](https://github.com/jinshendan/Leetcode/tree/master/May-LeetCoding-Challenge/05-First-Unique-Character-In-A-String): Hash Table
+6. [Majority Element](https://github.com/jinshendan/Leetcode/tree/master/May-LeetCoding-Challenge/06-Majority-Element): Ad hoc
 
 ## 30-Day (April) LeetCoding Challenge
 

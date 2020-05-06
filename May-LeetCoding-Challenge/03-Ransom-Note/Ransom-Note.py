@@ -29,3 +29,20 @@ class Solution2:
                 else:
                     return False
             return True
+
+
+# Using Python collections.Counter()
+class Solution3:
+    def canConstruct(self, ransomNote: str, magazine: str) -> bool:
+        if ransomNote=="":
+            return True
+        else:
+            if magazine=="":
+                return False
+        ransom = collections.Counter(ransomNote)
+        magazine = collections.Counter(magazine)
+        ransom = ransom - magazine
+        if not ransom:
+            return True
+        else:
+            return False

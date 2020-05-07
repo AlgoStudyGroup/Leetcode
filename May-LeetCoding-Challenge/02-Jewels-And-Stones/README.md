@@ -18,7 +18,7 @@ Complexity:
 - Time complexity: O(J * S)
 - Space complexity: O(1)
 
-where J is the number of jewels and S is the number of strones.
+where J is the number of jewels and S is the number of stones.
 
 ## Hash Table
 
@@ -32,4 +32,4 @@ Complexity:
 - Time complexity: O(S)
 - Space complexity: O(J)
 
-where J is the number of jewels and S is the number of strones.
+where J is the number of jewels and S is the number of stones.

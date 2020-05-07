@@ -1,3 +1,18 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
     public int getDepth(TreeNode root, int v){
         if(root == null ) return -1;
@@ -37,5 +52,51 @@ class Solution {
         
         if(x_d != -1 && y_d != -1 && x_d == y_d && !hasSameParent(root, x, y)) return true;
         return false;
+    }
+}
+
+// BFS: iterate with parent as array (0: parent, 1: self)
+class Solution2 {
+
+    public boolean isCousins(TreeNode root, int x, int y) {
+        TreeNode[] xNode = null;
+        TreeNode[] yNode = null;
+
+        Queue<TreeNode[]> queue = new LinkedList<>();
+        queue.add(newNode(null, root));
+
+        // iterate depth-levels
+        while (!queue.isEmpty()) {
+            int remaining = queue.size();
+
+            // iterate in the same depth-level
+            while (remaining > 0) {
+                TreeNode[] node = queue.poll();
+                if (node[1].val == x) {
+                    xNode = node;
+                }
+                if (node[1].val == y) {
+                    yNode = node;
+                }
+                if (node[1].left != null) {
+                    queue.add(newNode(node[1], node[1].left));
+                }
+                if (node[1].right != null) {
+                    queue.add(newNode(node[1], node[1].right));
+                }
+                remaining--;
+            }
+            if (xNode != null && yNode != null) {
+                return xNode[0] != yNode[0];
+            }
+            if (xNode != null || yNode != null) {
+                return false;
+            }
+        }
+        return false;
+    }
+
+    private TreeNode[] newNode(TreeNode parent, TreeNode node) {
+        return new TreeNode[]{ parent, node };
     }
 }

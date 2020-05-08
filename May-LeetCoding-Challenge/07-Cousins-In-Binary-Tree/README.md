@@ -5,6 +5,7 @@ https://leetcode.com/problems/cousins-in-binary-tree/, Easy
 Strategy:
 
 - Breadth-first search (BFS)
+- DFS
 
 ## BFS
 
@@ -24,3 +25,9 @@ We let the breadth-first search logic walk through the tree level-by-level.
 When at least one node (x, y, or both) had been identified in the current depth
 level, we stop and determine the relationship of two nodes. More detail in Java
 solution.
+
+## DFS, caching height and parent value in the attributs
+the strategy consists of
+1. if current node is x/y.
+2. if it is the case, caching height and parent value.
+3. if not the case, continue to do so for left branch and right branch.

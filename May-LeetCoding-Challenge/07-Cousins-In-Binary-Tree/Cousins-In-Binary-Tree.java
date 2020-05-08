@@ -100,3 +100,35 @@ class Solution2 {
         return new TreeNode[]{ parent, node };
     }
 }
+
+// caching results in attributs.
+class Solution3 {
+    int xHeight = 0;
+    int yHeight = 0;
+    int xParentv = 0;
+    int yParentv = 0;
+    public boolean isCousins(TreeNode root, int x, int y) {
+        findNode(root, x, y, 0, 0);
+        
+        return (xHeight == yHeight && xParentv != yParentv);
+    }
+    
+    public TreeNode findNode(TreeNode root, int x, int y, int h, int parentV) {
+        if (root == null) {
+            return null;
+        }
+        if (root.val == x) {
+            xParentv = parentV;
+            xHeight = h;
+            return root;
+        }
+        if (root.val == y) {
+            yParentv = parentV;
+            yHeight = h;
+            return root;
+        }
+        TreeNode l = findNode(root.left, x, y, h+1, root.val);
+        TreeNode r = findNode(root.right, x, y, h+1, root.val);
+        return (l == null) ? r : l;
+    }
+}

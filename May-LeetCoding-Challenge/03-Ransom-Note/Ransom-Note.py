@@ -13,19 +13,33 @@ class Solution1:
 
 class Solution2:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
-        if ransomNote == magazine:
+        magazines_dict = {}
+        for m in magazine:
+            if m in magazines_dict:
+                magazines_dict[m] += 1
+            else:
+                magazines_dict[m] = 1
+
+        for r in ransomNote:
+            if r in magazines_dict and magazines_dict[r] > 0:
+                magazines_dict[r] -= 1
+            else:
+                return False
+        return True
+
+
+# Using Python collections.Counter()
+class Solution3:
+    def canConstruct(self, ransomNote: str, magazine: str) -> bool:
+        if ransomNote == "":
             return True
         else:
-            magazines_dict = {}
-            for m in magazine:
-                if m in magazines_dict:
-                    magazines_dict[m] += 1
-                else:
-                    magazines_dict[m] = 1
-
-            for r in ransomNote:
-                if r in magazines_dict and magazines_dict[r] > 0:
-                    magazines_dict[r] -= 1
-                else:
-                    return False
+            if magazine == "":
+                return False
+        ransom = collections.Counter(ransomNote)
+        magazine = collections.Counter(magazine)
+        ransom = ransom - magazine
+        if not ransom:
             return True
+        else:
+            return False

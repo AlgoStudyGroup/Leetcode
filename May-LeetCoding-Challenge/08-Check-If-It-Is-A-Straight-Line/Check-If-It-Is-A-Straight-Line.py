@@ -36,3 +36,12 @@ class Solution2:
                         return False
                     else:
                         return True
+
+
+class Solution3:
+    def checkStraightLine(self, coordinates: List[List[int]]) -> bool:
+        ((first_x, first_y), (second_x, second_y)) = coordinates[:2]
+
+        for coordinate in coordinates[2:]:
+            return (second_y - first_y) * (coordinate[0] - first_x) == \
+                   (coordinate[1] - first_y) * (second_x - first_x)

@@ -14,7 +14,9 @@ Solutions in various programming languages are provided. Enjoy it.
 4. [Number Complement](https://github.com/jinshendan/Leetcode/tree/master/May-LeetCoding-Challenge/04-Number-Complement): Bitwise Manipulation
 5. [First Unique Character In a String](https://github.com/jinshendan/Leetcode/tree/master/May-LeetCoding-Challenge/05-First-Unique-Character-In-A-String): Hash Table
 6. [Majority Element](https://github.com/jinshendan/Leetcode/tree/master/May-LeetCoding-Challenge/06-Majority-Element): Ad hoc
-7. [Cousins in Binary Tree](https://github.com/jinshendan/Leetcode/tree/master/May-LeetCoding-Challenge/07-Cousins-In-Binary-Tree): BFS / Recursion 
+7. [Cousins in Binary Tree](https://github.com/jinshendan/Leetcode/tree/master/May-LeetCoding-Challenge/07-Cousins-In-Binary-Tree): BFS / 
+Recursion 
+8. [Check if it is straight line](https://github.com/jinshendan/Leetcode/tree/master/May-LeetCoding-Challenge/08-Check-If-It-Is-A-Straight-Line): Cross Product
 
 ## 30-Day (April) LeetCoding Challenge
 

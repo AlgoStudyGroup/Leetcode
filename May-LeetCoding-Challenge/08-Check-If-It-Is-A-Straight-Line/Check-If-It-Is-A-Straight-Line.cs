@@ -1,4 +1,4 @@
-solution1 - intesting one line solution
+//solution1 - intesting one line solution
 public class Solution {
             public bool CheckStraightLine(int[][] c) => c.All(p => (c[0][0] - c[1][0]) * (c[0][1] - p[1]) == (c[0][1] - c[1][1]) * (c[0][0] - p[0]));
 }

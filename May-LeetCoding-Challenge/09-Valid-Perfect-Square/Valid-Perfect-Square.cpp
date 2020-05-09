@@ -15,6 +15,27 @@ public:
 
 class Solution2 {
 public:
+    bool isPerfectSquare(int num) {
+        if (num == 0) return true;
+        for (int i = 1; num >= i; i+=2) num -= i;
+        return num == 0;
+    }
+};
+
+
+class Solution3 {
+public:
+    bool isPerfectSquare(int num) {
+       long long x = num;
+       while (x * x > num){
+           x = (x + num / x) / 2;
+       }
+        return x * x == num;
+    }
+};
+
+class Solution4 {
+public:
     void get_primes(vector<int>& prime){
         prime.resize(0);
         vector<int> vis(46341, 0);
@@ -31,6 +52,8 @@ public:
     }
     
     bool isPerfectSquare(int num) {
+        if (num == 0) return true;
+
         vector<int> prime;
         get_primes(prime);
         for (int i = 0; i < prime.size(); i++){

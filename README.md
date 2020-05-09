@@ -17,6 +17,7 @@ Solutions in various programming languages are provided. Enjoy it.
 7. [Cousins in Binary Tree](https://github.com/jinshendan/Leetcode/tree/master/May-LeetCoding-Challenge/07-Cousins-In-Binary-Tree): BFS / 
 Recursion 
 8. [Check if it is straight line](https://github.com/jinshendan/Leetcode/tree/master/May-LeetCoding-Challenge/08-Check-If-It-Is-A-Straight-Line): Cross Product
+9. [Valid Perfect Square](https://github.com/jinshendan/Leetcode/tree/master/May-LeetCoding-Challenge/09-Valid-Perfect-Square): Math
 
 ## 30-Day (April) LeetCoding Challenge
 

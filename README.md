@@ -18,7 +18,7 @@ Solutions in various programming languages are provided. Enjoy it.
 Recursion 
 8. [Check if it is straight line](https://github.com/jinshendan/Leetcode/tree/master/May-LeetCoding-Challenge/08-Check-If-It-Is-A-Straight-Line): Cross Product
 9. [Valid Perfect Square](https://github.com/jinshendan/Leetcode/tree/master/May-LeetCoding-Challenge/09-Valid-Perfect-Square): Math
-
+10. [Find the Town Judge](https://github.com/jinshendan/Leetcode/tree/master/May-LeetCoding-Challenge/10-Find-The-Town-Judge):
 
 ## 30-Day (April) LeetCoding Challenge
 

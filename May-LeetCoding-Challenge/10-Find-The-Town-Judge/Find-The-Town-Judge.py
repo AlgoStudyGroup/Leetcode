@@ -51,3 +51,25 @@ class Solution3:
 
         if candidate_exist == 0:
             return -1
+
+
+# Solution 4: 1 list
+class Solution:
+    def findJudge(self, N: int, trust: List[List[int]]) -> int:
+        # create empty list, one element for each person
+        people = [0 for _ in range(N)]
+
+        # iterate through trust table, increase/decrease count for each person
+        # being trusted
+        for trusting, trusted in trust:
+            people[trusting - 1] -= 1
+            people[trusted - 1] += 1
+
+        # find juge: N-1 people trust him and he trusts nobody, hence his count
+        # should be N-1. We could have only 1 juge since everyone trusts only 1
+        # person
+        try:
+            i_juge = people.index(N - 1) + 1
+        except ValueError:
+            return -1
+        return i_juge

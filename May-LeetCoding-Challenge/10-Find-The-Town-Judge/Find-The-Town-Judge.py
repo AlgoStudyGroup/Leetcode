@@ -17,3 +17,19 @@ class Solution:
             return -1
         else:             # if and only if one person
             return candidat.pop()
+
+# Solution 2 Two Arrays
+class Solution:
+    def findJudge(self, N: int, trust: List[List[int]]) -> int:
+        trusting = [0]*N
+        trusted = [0]*N
+        for x in trust:
+            trusting[x[0]-1]+=1
+            trusted[x[1]-1]+=1
+        res = -1
+        for i in range(N):
+            if trusting[i]^0==0 and trusted[i]^(N-1)==0:
+                return i+1
+
+
+        return res

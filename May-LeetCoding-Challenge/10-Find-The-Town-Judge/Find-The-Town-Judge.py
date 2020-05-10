@@ -65,11 +65,11 @@ class Solution:
             people[trusting - 1] -= 1
             people[trusted - 1] += 1
 
-        # find juge: N-1 people trust him and he trusts nobody, hence his count
+        # find judge: N-1 people trust him and he trusts nobody, hence his count
         # should be N-1. We could have only 1 juge since everyone trusts only 1
         # person
         try:
-            i_juge = people.index(N - 1) + 1
+            i_judge = people.index(N - 1) + 1
         except ValueError:
             return -1
-        return i_juge
+        return i_judge

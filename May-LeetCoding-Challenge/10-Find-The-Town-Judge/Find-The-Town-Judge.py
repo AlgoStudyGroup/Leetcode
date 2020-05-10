@@ -54,7 +54,7 @@ class Solution3:
 
 
 # Solution 4: 1 list
-class Solution:
+class Solution4:
     def findJudge(self, N: int, trust: List[List[int]]) -> int:
         # create empty list, one element for each person
         people = [0 for _ in range(N)]

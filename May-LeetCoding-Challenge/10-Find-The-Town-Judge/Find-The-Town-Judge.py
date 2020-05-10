@@ -33,3 +33,21 @@ class Solution2:
                 return i + 1
 
         return res
+
+
+class Solution3:
+    def findJudge(self, N: int, trust: List[List[int]]) -> int:
+        not_judge = set([lst[0] for lst in trust])
+        candidates_dict = {i: 0 for i in range(1, N + 1)}
+
+        for lst in trust:
+            candidates_dict[lst[1]] += 1
+
+        candidate_exist = 0
+        for candidate, times in candidates_dict.items():
+            if times == N - 1 and not candidate in not_judge:
+                candidate_exist += 1
+                return candidate
+
+        if candidate_exist == 0:
+            return -1

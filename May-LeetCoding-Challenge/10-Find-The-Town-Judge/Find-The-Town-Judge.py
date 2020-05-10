@@ -7,7 +7,6 @@ class Solution:
             return -1
         croire = dict() # counting persons that each trusts
         for x in trust:
-            #print(x[0],x[1])
             if x[0] not in croire:
                 croire[x[0]] = set([x[1]])
             else:

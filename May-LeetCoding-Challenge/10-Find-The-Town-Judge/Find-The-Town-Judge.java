@@ -19,3 +19,29 @@ class Solution {
         return -1;
     }
 }
+
+class Solution2 {
+    public int findJudge(int N, int[][] trust) {
+        Set<Integer> possibleJudges = new HashSet<>();
+        for (int i = 1; i <= N; i++) {
+            possibleJudges.add(i);
+        }
+        for (int[] pair : trust) {
+            possibleJudges.remove(pair[0]);
+        }
+        if (possibleJudges.size() == 1) {
+            Set<Integer> trusters = new HashSet<>();
+            int currentJudge = possibleJudges.iterator().next();
+            for (int[] pair: trust) {
+                if (pair[1] == currentJudge) {
+                    trusters.add(pair[0]);
+                }
+            }
+            if (trusters.size() == N-1) {
+                return currentJudge;
+            }
+        }
+        return -1;
+        
+    }
+}

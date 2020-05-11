@@ -1,11 +1,49 @@
-class FloodFillKotlin733 {
+import java.util.*
 
+class FloodFillKotlin733 {
+    fun floodFill(image: Array<IntArray>, sr: Int, sc: Int, newColor: Int): Array<IntArray> {
+        val target = image[sr][sc]
+        if (newColor == target) {
+            return image
+        }
+        // BFS  Pair(x,y)
+        val coordinateQueue: Queue<Pair<Int, Int>> = LinkedList()
+        coordinateQueue.offer(Pair(sr, sc))
+        while (coordinateQueue.isNotEmpty()) {
+            for (i in coordinateQueue.indices) {
+                val current = coordinateQueue.poll()
+                if (image[current.first][current.second] == target) {
+                    image[current.first][current.second] = newColor
+                    // UP
+                    if (current.first >= 1) {
+                        coordinateQueue.offer(Pair(current.first - 1, current.second))
+                    }
+                    // LEFT
+                    if (current.second >= 1) {
+                        coordinateQueue.offer(Pair(current.first, current.second - 1))
+                    }
+                    // BOTTOM
+                    if (current.first + 1 < image.size) {
+                        coordinateQueue.offer(Pair(current.first + 1, current.second))
+                    }
+                    // RIGHT
+                    if (current.second + 1 < image[0].size) {
+                        coordinateQueue.offer(Pair(current.first, current.second + 1))
+                    }
+                }
+            }
+        }
+        return image
+    }
+    /*
     fun floodFill(image: Array<IntArray>, sr: Int, sc: Int, newColor: Int): Array<IntArray> {
         if (newColor != image[sr][sc]) {
             dfs(image, image[sr][sc], sr, sc, newColor)
         }
         return image
     }
+
+     */
 
     // 320ms
     private fun dfs(

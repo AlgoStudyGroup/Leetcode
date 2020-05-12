@@ -20,6 +20,7 @@ Recursion
 9. [Valid Perfect Square](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/09-Valid-Perfect-Square): Math
 10. [Find the Town Judge](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/10-Find-The-Town-Judge): Graph Theory 
 11. [Flood Fill](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/11-Flood-Fill): BFS
+12. [Single Element In a Sorted Array](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/12-Single-Element-In-A-Sorted-Array): Binary Search
 
 ## 30-Day (April) LeetCoding Challenge
 

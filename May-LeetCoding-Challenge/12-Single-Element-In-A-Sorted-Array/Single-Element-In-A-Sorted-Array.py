@@ -20,3 +20,12 @@ class Solution1:
         return nums[left]
 
 
+class Solution2:
+    def singleNonDuplicate(self, nums: List[int]) -> int:
+        res_list = list()
+        for num in nums:
+            if num in res_list:
+                res_list.remove(num)
+            else:
+                res_list.append(num)
+        return res_list[0]

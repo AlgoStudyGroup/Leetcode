@@ -57,3 +57,29 @@ public class SingleElementinaSortedArray540 {
          */
     }
 }
+
+class Solution2 {
+    public int singleNonDuplicate(int[] nums) {
+        int left = 0, right = nums.length - 1;
+        
+        /* Be aware the number of element is odd, so the problem becomes simple:
+         * the single number is always in the odd part 
+         */
+        while(left < right) {
+            int mid = left + (right  - left) / 2;
+            if(nums[mid] == nums[mid+1]) {
+                if((mid - left) % 2 == 0)
+                    left = mid + 2;
+                else right = mid - 1;
+            } else if (nums[mid] == nums[mid - 1]) {
+                if((mid - 1 - left) % 2 == 0)
+                    left = mid + 1;
+                else right = mid - 2;
+            } else {
+                return nums[mid];
+            }
+        }
+        
+        return nums[left];
+    }
+}

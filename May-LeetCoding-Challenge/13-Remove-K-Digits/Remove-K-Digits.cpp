@@ -10,7 +10,7 @@ public:
             if (ans.length() == 0 and c == '0') continue;
             ans += c;
         }
-        
+         
         while (k-- and ans.length()) ans.pop_back();
         
         return ans.length()?ans:"0";

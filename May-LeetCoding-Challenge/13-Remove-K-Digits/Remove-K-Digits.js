@@ -22,7 +22,6 @@ var removeKdigits = function(num, k) {
     while(k>0){
         monotone_stack.pop();
         k--;
-        //console.log(monotone_stack+" --- "+k);
     }
     while(i<num.length){
         monotone_stack.push(num[i]);

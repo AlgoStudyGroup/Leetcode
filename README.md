@@ -21,6 +21,8 @@ Recursion
 10. [Find the Town Judge](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/10-Find-The-Town-Judge): Graph Theory 
 11. [Flood Fill](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/11-Flood-Fill): BFS
 12. [Single Element In a Sorted Array](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/12-Single-Element-In-A-Sorted-Array): Binary Search
+13. [Remove K Digits](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/13-Remove-K-Digits): Greedy
+
 
 ## 30-Day (April) LeetCoding Challenge
 

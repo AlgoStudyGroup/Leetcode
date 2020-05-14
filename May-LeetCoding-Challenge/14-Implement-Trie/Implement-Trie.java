@@ -59,6 +59,80 @@ class Trie {
     }
 }
 
+// Solution 2 
+class Trie2 {
+
+    private final Entry root = new Entry(null);
+    
+    /** Initialize your data structure here. */
+    public Trie2() {
+        
+    }
+    
+    private class Entry {
+        public Character c;
+        public Map<Character, Entry> next = new HashMap<>();
+        
+        public Entry(Character c) {
+            this.c = c;
+        }
+        
+        public Entry addEntry(Character c) {
+            Entry e = next.get(c);
+            if (e == null){
+                e = new Entry(c);
+                next.put(c, e);
+            }
+            return e;
+        }
+        
+        public Entry getEntry(Character c) {
+            return next.get(c);
+        }
+    }
+    
+    /** Inserts a word into the trie. */
+    public void insert(String word) {
+        
+        Entry current = root;
+        for (Character c : word.toCharArray()) {
+            current = current.addEntry(c);
+        }
+        current.addEntry(null);
+        
+    }
+    
+    /** Returns if the word is in the trie. */
+    public boolean search(String word) {
+        Entry current = root;
+        for (Character c : word.toCharArray()) {
+            Entry e = current.getEntry(c);
+            if (e != null) {
+                current = e;
+            } else {
+                return false;
+            }
+        }
+        Entry end = current.getEntry(null);
+        return end != null;
+    }
+    
+    /** Returns if there is any word in the trie that starts with the given prefix. */
+    public boolean startsWith(String prefix) {
+        Entry current = root;
+        for (Character c : prefix.toCharArray()) {
+            Entry e = current.getEntry(c);
+            if (e != null) {
+                current = e;
+            } else {
+                return false;
+            }
+        }
+        return true;
+    }
+}
+
+
 
 
 

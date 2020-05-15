@@ -18,9 +18,9 @@ Explanation: [4,-1,2,1] has the largest sum = 6.
 
 ### Dynamic Programming
 
-Denote by dp[i], the maximum subarray ending at nums[i]. 
+Denote by `dp[i]`, value of the maximum subarray ending at `nums[i]`. 
 
-Question: Given values of `dp[0 .. i - 1]`, how to compute `dp[i]` ?
+Question: Given `dp[0], dp[1], dp[i - 1]`, how to compute `dp[i]` ?
 
 Answer: There are two possibilities: 
 
@@ -29,9 +29,9 @@ Answer: There are two possibilities:
 2. The maximum subarray ending at `nums[i]` is of length >= 2. In this case, it is an extension of the maximum subarray ending at `nums[i-1]`. In other words, `dp[i] = dp[i-1] + nums[i]`.
 
 
-By definition of dp[i], we have  `dp[i] = max(nums[i], dp[i-1] + nums[i]) = nums[i] + max(0, dp[i-1]).` 
+By definition of `dp[i]`, we have  `dp[i] = max(nums[i], dp[i-1] + nums[i]) = nums[i] + max(0, dp[i-1]).` 
 
-Hence, here is the dp equation: `dp[i] = max(0, dp[i-1]) + nums[i]`. Moreover, since i-th element of dp[] only depends on (i-1)-th, the space complexity can be reduced to O(1).
+Hence, here is the dp equation: `dp[i] = max(0, dp[i-1]) + nums[i]`. Moreover, since i-th element of `dp[]` only depends on (i-1)-th, the space complexity can be reduced to O(1).
 
 
 ### Complexity:

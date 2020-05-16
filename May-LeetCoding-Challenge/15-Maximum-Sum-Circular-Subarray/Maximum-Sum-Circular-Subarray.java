@@ -33,3 +33,22 @@ class Solution {
         
     }
 }
+
+// Basically the same algo with Sol1, with less code.
+class Solution2 {
+    public int maxSubarraySumCircular(int[] A) {
+        int maxEndingHere = A[0];
+        int minEndingHere = A[0];
+        int maxSoFar = A[0];
+        int minSoFar = A[0];
+        int sum = A[0];
+        for (int j = 1 ; j <  A.length; j++) {
+            maxEndingHere = Math.max(maxEndingHere + A[j], A[j]);
+            minEndingHere = Math.min(minEndingHere + A[j], A[j] );
+            maxSoFar = Math.max(maxSoFar, maxEndingHere);
+            minSoFar = Math.min(minSoFar, minEndingHere);
+            sum += A[j];
+        }
+        return sum == minSoFar ? maxSoFar: Math.max(maxSoFar, sum - minSoFar);
+    }
+}

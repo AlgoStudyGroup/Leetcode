@@ -42,9 +42,9 @@ class Solution2 {
         int maxSoFar = A[0];
         int minSoFar = A[0];
         int sum = A[0];
-        for (int j = 1 ; j <  A.length; j++) {
+        for (int j = 1; j < A.length; j++) {
             maxEndingHere = Math.max(maxEndingHere + A[j], A[j]);
-            minEndingHere = Math.min(minEndingHere + A[j], A[j] );
+            minEndingHere = Math.min(minEndingHere + A[j], A[j]);
             maxSoFar = Math.max(maxSoFar, maxEndingHere);
             minSoFar = Math.min(minSoFar, minEndingHere);
             sum += A[j];

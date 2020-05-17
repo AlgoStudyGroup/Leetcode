@@ -25,7 +25,7 @@ Recursion
 14. [Implement Trie](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/14-Implement-Trie): Trie
 15. [Maximum Sum Circular Subarray](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/15-Maximum-Sum-Circular-Subarray): DP
 16. [Odd Even Linked List](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/16-Odd-Even-Linked-List): Linked List
-17. [Find All Anagrams in a String](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/17-Find-All-Anagrams-In-A-String): Hash Table
+17. [Find All Anagrams in a String](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/17-Find-All-Anagrams-In-A-String): Sliding window + Hash Table
 
 
 ## 30-Day (April) LeetCoding Challenge

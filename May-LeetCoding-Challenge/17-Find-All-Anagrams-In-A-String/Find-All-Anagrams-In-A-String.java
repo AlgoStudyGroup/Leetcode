@@ -70,3 +70,36 @@ class Solution2 {
         return res;
     }
 }
+
+// Sliding windows solution
+class Solution3 {
+    private boolean checkDiff(int[] diff){
+        for (int i = 0; i < diff.length; i++) 
+            if (diff[i] != 0) return false;
+        
+        return true;
+    }
+    
+    public List<Integer> findAnagrams(String s, String p) {
+        List<Integer> res = new ArrayList<>();
+        int sLength = s.length(), pLength = p.length();
+        if(sLength < pLength || s == null) return res;
+        
+        int[] diff = new int[26];
+        
+        for(int i = 0; i < pLength; i++) {
+            diff[p.charAt(i) - 'a']--;
+            diff[s.charAt(i) - 'a']++;
+        }
+        if(checkDiff(diff)) res.add(0);
+        
+        //sliding window
+        for (int i = pLength; i < sLength; i++) {
+            diff[s.charAt(i) - 'a']++;
+            diff[s.charAt(i - pLength) - 'a']--;
+            if(checkDiff(diff)) res.add(i - pLength + 1);
+        }
+        
+        return res;
+    }
+}

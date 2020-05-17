@@ -31,3 +31,23 @@ public:
         return ans;
     }
 };
+
+class Solution2 {
+public:
+    vector<int> findAnagrams(string s, string p) {
+        vector<int> res, m(256, 0);
+        int left = 0, right, count = p.size(), n = s.size();
+        
+        if (count > n) return res;
+        for (char &c : p) ++m[c];
+        for (right = 0 ; right < p.size()-1 ; ++right)
+            count -= m[s[right]]-- >= 1;
+
+        while (right < n) {
+            count -= m[s[right++]]-- >= 1;
+            if (count == 0) res.push_back(left);
+            count += m[s[left++]]++ >= 0;
+        }
+        return res;
+    }
+};

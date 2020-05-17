@@ -24,3 +24,24 @@ class Solution {
         return head;// 1 2 4 5
     }
 }
+
+class Solution2 {
+    public ListNode oddEvenList(ListNode head) {
+        // we separate the list to odd list and event list, and we combine these two list
+        if(head == null)    return null;
+        
+        ListNode odd = head;
+        ListNode even = head.next;
+        ListNode evenHead = even;
+             
+        while(even != null && even.next != null) {
+            odd.next = even.next;
+            odd = odd.next;
+            even.next = odd.next;
+            even = even.next;
+        }
+        
+        odd.next = evenHead;
+        return head;   
+    }
+}

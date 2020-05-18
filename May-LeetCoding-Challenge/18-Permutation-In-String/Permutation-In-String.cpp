@@ -31,3 +31,29 @@ public:
         return false; 
     }
 };
+
+class Solution2 {
+public:
+    bool checkInclusion(string s1, string s2) {
+        vector<int> h1(26,0);
+        int count = s1.size();
+        int right = 0, left = 0;
+        int l_idx;
+        
+        for (char &c : s1) ++h1[c-'a'];
+        
+        for (int right = 0; right < s2.size() ; ++right) {
+            count -= h1[s2[right]-'a']-- > 0;
+            if (count == 0) {
+                l_idx = right - s1.size() + 1;
+                for (; left < l_idx; ++left)
+                    count += h1[s2[left]-'a']++ >= 0;
+
+                if (count == 0)
+                    return true;
+            }
+        }
+        
+        return false;
+    }
+};

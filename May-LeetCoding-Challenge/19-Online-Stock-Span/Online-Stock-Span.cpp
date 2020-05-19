@@ -1,4 +1,8 @@
-// Got TLE using vector 
+/*
+    Dynamic programming using idea of KMP.
+    Got AC using array.
+    Got TLE using vector.
+*/ 
 class StockSpanner {
 public:
     int fail[10005];
@@ -19,3 +23,23 @@ public:
     }
 };
 
+
+/*
+Stack !
+*/
+class StockSpanner2 {
+public:
+    stack<pair<int, int>> st; 
+    StockSpanner() {}
+    
+    int next(int price) {
+        int sum = 1;
+        
+        while (!st.empty() and price >= st.top().first) {
+            sum += st.top().second;
+            st.pop();
+        }
+        st.push(make_pair(price, sum));
+        return sum;
+    }
+};

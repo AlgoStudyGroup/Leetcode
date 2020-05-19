@@ -27,6 +27,9 @@ Recursion
 16. [Odd Even Linked List](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/16-Odd-Even-Linked-List): Linked List
 17. [Find All Anagrams in a String](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/17-Find-All-Anagrams-In-A-String): Sliding window + Hash Table
 18. [Permutation In String](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/18-Permutation-In-String): Sliding window + Hash Table
+19. [Online Stock Span](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/19-Online-Stock-Span): DP
+
+
 
 ## 30-Day (April) LeetCoding Challenge
 

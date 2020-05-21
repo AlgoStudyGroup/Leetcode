@@ -27,7 +27,7 @@ class Solution {
 }
 
 /**
- * Dynamique programmingsolution
+ * Dynamic programmingsolution
  * Runtime: 5 ms
  * Memory Usage: 49 MB
  * Time complexity: O(m*n)

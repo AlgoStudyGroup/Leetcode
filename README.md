@@ -29,6 +29,7 @@ Recursion
 18. [Permutation In String](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/18-Permutation-In-String): Sliding window + Hash Table
 19. [Online Stock Span](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/19-Online-Stock-Span): DP
 20. [Kth-Smallest-Element-In-A-BST](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/20-Kth-Smallest-Element-In-A-BST): BST
+21. [Count Square Submatrices with All Ones](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/21-Count-Square-Submatrices-With-All-Ones): DP
 
 
 ## 30-Day (April) LeetCoding Challenge

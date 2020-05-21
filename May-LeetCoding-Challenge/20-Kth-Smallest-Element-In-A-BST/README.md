@@ -1,37 +1,24 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
-class Solution1 {
-    ArrayList<Integer> array = new ArrayList<>();
-    
-    private void bstToArrayList(TreeNode treeNode){
-        if(treeNode.left != null)
-            bstToArrayList(treeNode.left);
-        array.add(treeNode.val);
-        if(treeNode.right != null)
-            bstToArrayList(treeNode.right);
-    }
-    
-    public int kthSmallest(TreeNode root, int k) {
-        bstToArrayList(root);
-        
-        return array.get(k-1);
-    }
-}
+# Kth Smallest Element in a BST
 
-class Solution2 {
+<https://leetcode.com/problems/kth-smallest-element-in-a-bst/>, Medium
+
+Strategy:
+
+- In-order traversal
+
+## In-Order Traversal
+
+To find the Kth smallest element in a binary search tree (BST), we can traverse
+its nodes in-order: left, node, right (LNR). This is because all the nodes in
+left sub-tree have value smaller than the current node, and all the nodes in the
+right sub-tree have value greater than the current node. In-order traversal
+makes us find the result in the shortest time. When walking through the tree,
+keep track of two variables: the candidate for the Kth smallest value and the
+remaining number of nodes to visit. We stop visiting more nodes when remaining
+node count decreases and reaches 0. Possible solution in Java:
+
+```java
+class Solution {
     public int kthSmallest(TreeNode root, int k) {
         return walk(root, k)[0];
     }
@@ -59,3 +46,4 @@ class Solution2 {
         return walk(root.right, remaining - 1);
     }
 }
+```

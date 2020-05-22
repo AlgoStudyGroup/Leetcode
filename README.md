@@ -30,7 +30,7 @@ Recursion
 19. [Online Stock Span](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/19-Online-Stock-Span): DP
 20. [Kth-Smallest-Element-In-A-BST](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/20-Kth-Smallest-Element-In-A-BST): BST
 21. [Count Square Submatrices with All Ones](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/21-Count-Square-Submatrices-With-All-Ones): DP
-
+22. [Sort Characters By Frequency](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/22-Sort-Characters-By-Frequency): Hash Table
 
 ## 30-Day (April) LeetCoding Challenge
 

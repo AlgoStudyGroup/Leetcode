@@ -18,4 +18,3 @@ class Solution:
                     output += matrix[r][c]
 
         return output
-s

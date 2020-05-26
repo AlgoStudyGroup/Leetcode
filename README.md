@@ -34,7 +34,7 @@ Recursion
 23. [Interval List Intersections](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/23-Interval-List-Intersections): Two Pointers
 24. [Construct Binary Search Tree from Preorder Traversal](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/24-Construct-Binary-Search-Tree-From-Preorder-Traversal): Binary Search Tree
 25. [Uncrossed Lines](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/25-Uncrossed-Lines): DP
-
+26. [Contiguous Array](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/26-Contiguous-Array): Hash Table
 
 
 ## 30-Day (April) LeetCoding Challenge

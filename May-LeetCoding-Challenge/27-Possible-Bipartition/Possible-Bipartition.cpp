@@ -3,6 +3,7 @@ public:
     vector<int> color;
     vector<vector<int>> G;
     
+    // Return true if the connected component of u is a bipartite graph
     bool bipartite(int u) {
         for (int i = 0; i < G[u].size(); i++) {
             int v = G[u][i];

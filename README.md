@@ -36,6 +36,7 @@ Recursion
 25. [Uncrossed Lines](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/25-Uncrossed-Lines): DP
 26. [Contiguous Array](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/26-Contiguous-Array): Hash Table
 27. [Possible Bipartition](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/27-Possible-Bipartition): Bipartite Graph
+28. [Counting Bits](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/28-Counting-Bits): Math
 
 ## 30-Day (April) LeetCoding Challenge
 

@@ -38,6 +38,7 @@ Recursion
 27. [Possible Bipartition](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/27-Possible-Bipartition): Bipartite Graph
 28. [Counting Bits](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/28-Counting-Bits): Math
 29.	[Course Schedule](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/29-Course-Schedule): Topological Sort
+30. [K Closest Points to Origin](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/30-K-Closest-Points-To-Origin): Priority_queue, Sort
 
 ## 30-Day (April) LeetCoding Challenge
 

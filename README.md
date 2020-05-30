@@ -25,6 +25,20 @@ Recursion
 14. [Implement Trie](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/14-Implement-Trie): Trie
 15. [Maximum Sum Circular Subarray](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/15-Maximum-Sum-Circular-Subarray): DP
 16. [Odd Even Linked List](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/16-Odd-Even-Linked-List): Linked List
+17. [Find All Anagrams in a String](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/17-Find-All-Anagrams-In-A-String): Sliding window + Hash Table
+18. [Permutation In String](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/18-Permutation-In-String): Sliding window + Hash Table
+19. [Online Stock Span](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/19-Online-Stock-Span): DP
+20. [Kth-Smallest-Element-In-A-BST](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/20-Kth-Smallest-Element-In-A-BST): BST
+21. [Count Square Submatrices with All Ones](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/21-Count-Square-Submatrices-With-All-Ones): DP
+22. [Sort Characters By Frequency](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/22-Sort-Characters-By-Frequency): Hash Table
+23. [Interval List Intersections](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/23-Interval-List-Intersections): Two Pointers
+24. [Construct Binary Search Tree from Preorder Traversal](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/24-Construct-Binary-Search-Tree-From-Preorder-Traversal): Binary Search Tree
+25. [Uncrossed Lines](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/25-Uncrossed-Lines): DP
+26. [Contiguous Array](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/26-Contiguous-Array): Hash Table
+27. [Possible Bipartition](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/27-Possible-Bipartition): Bipartite Graph
+28. [Counting Bits](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/28-Counting-Bits): Math
+29.	[Course Schedule](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/29-Course-Schedule): Topological Sort
+30. [K Closest Points to Origin](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/30-K-Closest-Points-To-Origin): Priority_queue, Sort
 
 ## 30-Day (April) LeetCoding Challenge
 

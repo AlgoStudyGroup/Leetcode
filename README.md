@@ -2,6 +2,14 @@
 
 https://leetcode.com
 
+
+## June LeetCoding Challenge
+Click [here](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/) for problem descriptions.
+
+Solutions in various programming languages are provided. Enjoy it. 
+
+Coming soon...
+
 ## May LeetCoding Challenge
 
 Click [here](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/) for problem descriptions.

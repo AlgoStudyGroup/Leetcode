@@ -39,6 +39,7 @@ Recursion
 28. [Counting Bits](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/28-Counting-Bits): Math
 29.	[Course Schedule](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/29-Course-Schedule): Topological Sort
 30. [K Closest Points to Origin](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/30-K-Closest-Points-To-Origin): Priority_queue, Sort
+31. [Edit Distance](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/31-Edit-Distance): DP
 
 ## 30-Day (April) LeetCoding Challenge
 

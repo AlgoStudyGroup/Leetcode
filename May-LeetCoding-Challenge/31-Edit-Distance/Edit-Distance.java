@@ -12,10 +12,10 @@ class Solution {
          * Construct a dp table
          * __|''|a|b|c|
          * ''| 0|1|2|3|...
-         * ''|0
-         * d |1
-         * e |2
-         * f |3
+         * ''| 0
+         * d | 1
+         * e | 2
+         * f | 3
          */
         for (int i = 0; i <= m; i++) {
             dp[i][0] = i;

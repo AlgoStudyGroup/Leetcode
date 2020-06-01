@@ -10,9 +10,6 @@ public:
     TreeNode* invertTree(TreeNode* root) {
         TreeNode* root2 = NULL;
         dfs(root, &root2);
-        if (root2 == NULL) {
-            cout << "NULL" << endl;
-        }
         return root2;
     }
 };

@@ -8,7 +8,7 @@ Click [here](https://leetcode.com/explore/challenge/card/june-leetcoding-challen
 
 Solutions in various programming languages are provided. Enjoy it. 
 
-Coming soon...
+1. [Invert Binary Tree](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/01-Invert-Binary-Tree): Tree Traversal
 
 ## May LeetCoding Challenge
 

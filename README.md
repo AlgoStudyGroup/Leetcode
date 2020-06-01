@@ -2,6 +2,14 @@
 
 https://leetcode.com
 
+
+## June LeetCoding Challenge
+Click [here](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/) for problem descriptions.
+
+Solutions in various programming languages are provided. Enjoy it. 
+
+1. [Invert Binary Tree](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/01-Invert-Binary-Tree): Tree Traversal
+
 ## May LeetCoding Challenge
 
 Click [here](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/) for problem descriptions.
@@ -19,6 +27,27 @@ Recursion
 8. [Check if it is straight line](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/08-Check-If-It-Is-A-Straight-Line): Cross Product
 9. [Valid Perfect Square](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/09-Valid-Perfect-Square): Math
 10. [Find the Town Judge](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/10-Find-The-Town-Judge): Graph Theory 
+11. [Flood Fill](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/11-Flood-Fill): BFS
+12. [Single Element In a Sorted Array](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/12-Single-Element-In-A-Sorted-Array): Binary Search
+13. [Remove K Digits](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/13-Remove-K-Digits): Greedy
+14. [Implement Trie](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/14-Implement-Trie): Trie
+15. [Maximum Sum Circular Subarray](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/15-Maximum-Sum-Circular-Subarray): DP
+16. [Odd Even Linked List](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/16-Odd-Even-Linked-List): Linked List
+17. [Find All Anagrams in a String](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/17-Find-All-Anagrams-In-A-String): Sliding window + Hash Table
+18. [Permutation In String](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/18-Permutation-In-String): Sliding window + Hash Table
+19. [Online Stock Span](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/19-Online-Stock-Span): DP
+20. [Kth-Smallest-Element-In-A-BST](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/20-Kth-Smallest-Element-In-A-BST): BST
+21. [Count Square Submatrices with All Ones](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/21-Count-Square-Submatrices-With-All-Ones): DP
+22. [Sort Characters By Frequency](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/22-Sort-Characters-By-Frequency): Hash Table
+23. [Interval List Intersections](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/23-Interval-List-Intersections): Two Pointers
+24. [Construct Binary Search Tree from Preorder Traversal](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/24-Construct-Binary-Search-Tree-From-Preorder-Traversal): Binary Search Tree
+25. [Uncrossed Lines](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/25-Uncrossed-Lines): DP
+26. [Contiguous Array](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/26-Contiguous-Array): Hash Table
+27. [Possible Bipartition](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/27-Possible-Bipartition): Bipartite Graph
+28. [Counting Bits](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/28-Counting-Bits): Math
+29.	[Course Schedule](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/29-Course-Schedule): Topological Sort
+30. [K Closest Points to Origin](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/30-K-Closest-Points-To-Origin): Priority_queue, Sort
+31. [Edit Distance](https://github.com/AlgoStudyGroup/Leetcode/tree/master/May-LeetCoding-Challenge/31-Edit-Distance): DP
 
 ## 30-Day (April) LeetCoding Challenge
 

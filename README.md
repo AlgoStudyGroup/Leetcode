@@ -9,6 +9,8 @@ Click [here](https://leetcode.com/explore/challenge/card/june-leetcoding-challen
 Solutions in various programming languages are provided. Enjoy it. 
 
 1. [Invert Binary Tree](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/01-Invert-Binary-Tree): Tree Traversal
+2. [Delete Node in a Linked List](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/02-Delete-Node-In-A-Linked-List): Linked List
+
 
 ## May LeetCoding Challenge
 

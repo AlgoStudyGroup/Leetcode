@@ -1,5 +1,5 @@
 // Time Complexity O(n^2), space complexity O(n^2)
-class Solution1 {
+class Solution {
 public:
     int twoCitySchedCost(vector<vector<int>>& costs) {
         int N = costs.size();

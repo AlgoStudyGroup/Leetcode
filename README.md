@@ -11,7 +11,7 @@ Solutions in various programming languages are provided. Enjoy it.
 1. [Invert Binary Tree](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/01-Invert-Binary-Tree): Tree Traversal
 2. [Delete Node in a Linked List](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/02-Delete-Node-In-A-Linked-List): Linked List
 3. [Two City Scheduling](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/03-Two-City-Scheduling): DP
-
+4. [Reverse String](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/04-Reverse-String): String
 
 ## May LeetCoding Challenge
 

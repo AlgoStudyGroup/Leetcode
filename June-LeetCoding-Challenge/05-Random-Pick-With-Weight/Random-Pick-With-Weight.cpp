@@ -14,3 +14,23 @@ public:
         return lower_bound(sum.begin(), sum.end(), p) - sum.begin();
     }
 };
+
+class Solution2 {
+    // space: O(n)
+    map<int, int> m;
+    int sum;
+public:
+    // time O(n log n)
+    Solution(vector<int>& w) {
+        sum = 0;
+        for (int i = 0; i < w.size(); ++i) {
+            sum += w[i];
+            m[sum] = i;
+        }
+    }
+    
+    // time O(log n)
+    int pickIndex() {
+        return m.upper_bound(rand()%sum)->second;
+    }
+};

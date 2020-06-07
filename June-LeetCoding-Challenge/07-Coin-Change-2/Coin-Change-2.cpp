@@ -17,3 +17,15 @@ public:
         return dp[1-flag][amount];
     }
 };
+
+class Solution {
+public:
+    int change(int amount, vector<int>& coins) {
+        int dp[5001] = { 1 };
+        for(int c : coins)
+            for(int j=c; j<=amount; ++j) 
+                dp[j] += dp[j-c];
+        return dp[amount];
+    }
+    
+};

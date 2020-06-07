@@ -4,7 +4,6 @@
  * @return {number}
  */
 var change = function(amount, coins) {
-    coins.sort(function(a,b){return a-b;})
     if(amount>0 && coins.length==0){
         return 0;
     }

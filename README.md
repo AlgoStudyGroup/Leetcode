@@ -14,7 +14,7 @@ Solutions in various programming languages are provided. Enjoy it.
 4. [Reverse String](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/04-Reverse-String): String
 5. [Random Pick With Weight](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/05-Random-Pick-With-Weight): Binary Search + Probability
 6. [Queue Reconstruction by Height](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/06-Queue-Reconstruction-By-Height): Greedy
-
+7. [Coin Change 2](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/07-Coin-Change-2): DP
 
 ## May LeetCoding Challenge
 

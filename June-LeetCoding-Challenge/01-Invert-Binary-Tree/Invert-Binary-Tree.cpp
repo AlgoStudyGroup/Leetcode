@@ -13,3 +13,16 @@ public:
         return root2;
     }
 };
+
+class Solution {
+public:
+    TreeNode* invertTree(TreeNode* root) {
+        if(!root) return nullptr; 
+        auto left = (root->left)?invertTree(root->left):nullptr;
+        auto right = (root->right)?invertTree(root->right):nullptr;
+        root->left = right;
+        root->right = left;
+        return root;
+    }
+    
+};

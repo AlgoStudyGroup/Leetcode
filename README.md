@@ -17,7 +17,7 @@ Solutions in various programming languages are provided. Enjoy it.
 7. [Coin Change 2](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/07-Coin-Change-2): DP
 8. [Power of Two](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/08-Power-Of-Two): Bitwise manipulation
 9. [Is Subsequence](https://github.com/AlgoStudyGroup/Leetcode/blob/master/June-LeetCoding-Challenge/09-Is-Subsequence): Two pointers / DP
-
+10. [Search Insert Position](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/10-Search-Insert-Position): Binary Search
 
 ## May LeetCoding Challenge
 

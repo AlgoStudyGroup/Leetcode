@@ -16,7 +16,12 @@ Solutions in various programming languages are provided. Enjoy it.
 6. [Queue Reconstruction by Height](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/06-Queue-Reconstruction-By-Height): Greedy
 7. [Coin Change 2](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/07-Coin-Change-2): DP
 8. [Power of Two](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/08-Power-Of-Two): Bitwise manipulation
-
+9. [Is Subsequence](https://github.com/AlgoStudyGroup/Leetcode/blob/master/June-LeetCoding-Challenge/09-Is-Subsequence): Two pointers / DP
+10. [Search Insert Position](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/10-Search-Insert-Position): Binary Search
+11. [Sort Colors](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/11-Sort-Colors): Two Pointers
+12. [Insert Delete GetRandom](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/12-Insert-Delete-GetRandom): Hash Table
+13. [Largest Divisible Subset](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/13-Largest-Divisible-Subset): DP
+14. [Cheapest Flights Within K Stops](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/14-Cheapest-Flights-Within-K-Stops): DP
 
 
 ## May LeetCoding Challenge

@@ -22,7 +22,7 @@ Solutions in various programming languages are provided. Enjoy it.
 12. [Insert Delete GetRandom](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/12-Insert-Delete-GetRandom): Hash Table
 13. [Largest Divisible Subset](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/13-Largest-Divisible-Subset): DP
 14. [Cheapest Flights Within K Stops](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/14-Cheapest-Flights-Within-K-Stops): DP
-
+15. [Search in a Binary Search Tree](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/15-Search-In-A-Binary-Search-Tree): Recursive
 
 ## May LeetCoding Challenge
 

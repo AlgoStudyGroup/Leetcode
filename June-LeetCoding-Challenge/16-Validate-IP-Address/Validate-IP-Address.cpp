@@ -46,3 +46,28 @@ public:
         return "Neither";
     }
 };
+
+
+class Solution2 {
+public:
+    string validIPAddress(string IP) {
+        if (IP.find('.') != string::npos) {
+            regex ipv4_regex("((2[0-4]\\d|25[0-5]|0|[1-9]\\d?|1\\d\\d)\\.){3}(2[0-4]\\d|25[0-5]|0|[1-9]\\d?|1\\d\\d)");
+            // 2[0-4]\\d    200~249
+            // 25[0-5]      250~255
+            // 0            0
+            // [1-9]\\d?    1~99
+            // 1\\d\\d      100~199
+            if (regex_match(IP, ipv4_regex))
+                return "IPv4";
+        }
+        else if (IP.find(':') != string::npos) {
+            regex ipv6_regex("([\\da-fA-F]{1,4}:){7}([\\da-fA-F]{1,4})");
+            //  [\\da-fA-F]{1,4}        0000~FFFF
+            if (regex_match(IP, ipv6_regex))
+                return "IPv6";
+        }
+
+        return "Neither";
+    }
+};

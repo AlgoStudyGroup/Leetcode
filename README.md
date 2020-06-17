@@ -24,7 +24,7 @@ Solutions in various programming languages are provided. Enjoy it.
 14. [Cheapest Flights Within K Stops](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/14-Cheapest-Flights-Within-K-Stops): DP
 15. [Search in a Binary Search Tree](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/15-Search-In-A-Binary-Search-Tree): Recursive
 16. [Validate IP Address](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/16-Validate-IP-Address): String
-
+17. [Surrounded Regions](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/17-Surrounded-Regions): BFS
 
 ## May LeetCoding Challenge
 

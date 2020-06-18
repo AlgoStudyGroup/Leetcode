@@ -13,3 +13,18 @@ public:
         return n - left;
     }
 };
+
+
+// solution when the citations vector is not initially sorted.
+class Solution2 {
+public:
+    int hIndex(vector<int>& citations) {
+        make_heap(citations.begin(), citations.end(), greater<int>{});
+        while(!citations.empty() && citations.front() < citations.size()){
+            pop_heap(citations.begin(), citations.end(), greater<int>{});
+            citations.pop_back();
+        }
+        
+        return citations.size();
+    }
+};

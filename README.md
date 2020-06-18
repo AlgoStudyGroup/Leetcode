@@ -25,6 +25,8 @@ Solutions in various programming languages are provided. Enjoy it.
 15. [Search in a Binary Search Tree](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/15-Search-In-A-Binary-Search-Tree): Recursive
 16. [Validate IP Address](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/16-Validate-IP-Address): String
 17. [Surrounded Regions](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/17-Surrounded-Regions): BFS
+18. [H Index II](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/18-H-Index-II): Binary Search
+
 
 ## May LeetCoding Challenge
 

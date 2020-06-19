@@ -8,7 +8,25 @@ Click [here](https://leetcode.com/explore/challenge/card/june-leetcoding-challen
 
 Solutions in various programming languages are provided. Enjoy it. 
 
-Coming soon...
+1. [Invert Binary Tree](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/01-Invert-Binary-Tree): Tree Traversal
+2. [Delete Node in a Linked List](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/02-Delete-Node-In-A-Linked-List): Linked List
+3. [Two City Scheduling](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/03-Two-City-Scheduling): DP
+4. [Reverse String](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/04-Reverse-String): String
+5. [Random Pick With Weight](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/05-Random-Pick-With-Weight): Binary Search + Probability
+6. [Queue Reconstruction by Height](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/06-Queue-Reconstruction-By-Height): Greedy
+7. [Coin Change 2](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/07-Coin-Change-2): DP
+8. [Power of Two](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/08-Power-Of-Two): Bitwise manipulation
+9. [Is Subsequence](https://github.com/AlgoStudyGroup/Leetcode/blob/master/June-LeetCoding-Challenge/09-Is-Subsequence): Two pointers / DP
+10. [Search Insert Position](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/10-Search-Insert-Position): Binary Search
+11. [Sort Colors](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/11-Sort-Colors): Two Pointers
+12. [Insert Delete GetRandom](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/12-Insert-Delete-GetRandom): Hash Table
+13. [Largest Divisible Subset](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/13-Largest-Divisible-Subset): DP
+14. [Cheapest Flights Within K Stops](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/14-Cheapest-Flights-Within-K-Stops): DP
+15. [Search in a Binary Search Tree](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/15-Search-In-A-Binary-Search-Tree): Recursive
+16. [Validate IP Address](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/16-Validate-IP-Address): String
+17. [Surrounded Regions](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/17-Surrounded-Regions): BFS
+18. [H Index II](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/18-H-Index-II): Binary Search
+
 
 ## May LeetCoding Challenge
 

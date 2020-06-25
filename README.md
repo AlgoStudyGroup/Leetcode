@@ -26,6 +26,12 @@ Solutions in various programming languages are provided. Enjoy it.
 16. [Validate IP Address](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/16-Validate-IP-Address): String
 17. [Surrounded Regions](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/17-Surrounded-Regions): BFS
 18. [H Index II](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/18-H-Index-II): Binary Search
+19. [Longest Duplicate Substring]():  
+20. [Permutation Sequence](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/20-Permutation-Sequence): Maths
+21. [Dungeon Game](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/21-Dungeon-Game): DP
+22. [Single Number II](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/22-Single-Number-II): Bitwise Manipulation
+23. [Count Complete Tree Nodes](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/23-Count-Complete-Tree-Nodes): Tree Traversal
+24. [Unique Binary Search Trees](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/24-Unique-Binary-Search-Trees): DP
 
 
 ## May LeetCoding Challenge

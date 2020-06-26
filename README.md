@@ -33,7 +33,7 @@ Solutions in various programming languages are provided. Enjoy it.
 23. [Count Complete Tree Nodes](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/23-Count-Complete-Tree-Nodes): Tree Traversal
 24. [Unique Binary Search Trees](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/24-Unique-Binary-Search-Trees): DP
 25. [Find the Duplicate Number](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/25-Find-the-Duplicate-Number): Cycle Detect
-
+26. [Sum Root To Leaf Numbers](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/26-Sum-Root-to-Leaf-Numbers): DFS
 
 ## May LeetCoding Challenge
 

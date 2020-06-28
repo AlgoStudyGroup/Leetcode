@@ -35,6 +35,7 @@ Solutions in various programming languages are provided. Enjoy it.
 25. [Find the Duplicate Number](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/25-Find-the-Duplicate-Number): Cycle Detect
 26. [Sum Root To Leaf Numbers](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/26-Sum-Root-to-Leaf-Numbers): DFS
 27. [Perfect Squares](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/27-Perfect-Squares): DP
+28. [Reconstruct Itinerary](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/28-Reconstruct-Itinerary): DFS
 
 ## May LeetCoding Challenge
 

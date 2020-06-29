@@ -36,6 +36,7 @@ Solutions in various programming languages are provided. Enjoy it.
 26. [Sum Root To Leaf Numbers](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/26-Sum-Root-to-Leaf-Numbers): DFS
 27. [Perfect Squares](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/27-Perfect-Squares): DP
 28. [Reconstruct Itinerary](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/28-Reconstruct-Itinerary): DFS
+29. [Unique Paths](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/29-Unique-Paths): DP
 
 ## May LeetCoding Challenge
 

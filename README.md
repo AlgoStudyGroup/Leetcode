@@ -3,6 +3,15 @@
 https://leetcode.com
 
 
+
+## July LeetCoding Challenge
+Click [here](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/) for problem descriptions.
+
+Solutions in various programming languages are provided. Enjoy it. 
+
+
+
+
 ## June LeetCoding Challenge
 Click [here](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/) for problem descriptions.
 
@@ -37,6 +46,8 @@ Solutions in various programming languages are provided. Enjoy it.
 27. [Perfect Squares](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/27-Perfect-Squares): DP
 28. [Reconstruct Itinerary](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/28-Reconstruct-Itinerary): DFS
 29. [Unique Paths](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/29-Unique-Paths): DP
+30. [Word Search](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/30-Word-Search-II): Trie + DFS
+
 
 ## May LeetCoding Challenge
 

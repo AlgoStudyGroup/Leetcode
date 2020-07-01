@@ -9,6 +9,9 @@ Click [here](https://leetcode.com/explore/featured/card/july-leetcoding-challeng
 
 Solutions in various programming languages are provided. Enjoy it. 
 
+1. [Arranging Coins](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/01-Arranging-Coins): Maths
+
+
 
 
 

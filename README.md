@@ -3,6 +3,18 @@
 https://leetcode.com
 
 
+
+## July LeetCoding Challenge
+Click [here](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/) for problem descriptions.
+
+Solutions in various programming languages are provided. Enjoy it. 
+
+1. [Arranging Coins](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/01-Arranging-Coins): Maths
+
+
+
+
+
 ## June LeetCoding Challenge
 Click [here](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/) for problem descriptions.
 
@@ -32,6 +44,12 @@ Solutions in various programming languages are provided. Enjoy it.
 22. [Single Number II](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/22-Single-Number-II): Bitwise Manipulation
 23. [Count Complete Tree Nodes](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/23-Count-Complete-Tree-Nodes): Tree Traversal
 24. [Unique Binary Search Trees](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/24-Unique-Binary-Search-Trees): DP
+25. [Find the Duplicate Number](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/25-Find-the-Duplicate-Number): Cycle Detect
+26. [Sum Root To Leaf Numbers](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/26-Sum-Root-to-Leaf-Numbers): DFS
+27. [Perfect Squares](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/27-Perfect-Squares): DP
+28. [Reconstruct Itinerary](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/28-Reconstruct-Itinerary): DFS
+29. [Unique Paths](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/29-Unique-Paths): DP
+30. [Word Search](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/30-Word-Search-II): Trie + DFS
 
 
 ## May LeetCoding Challenge

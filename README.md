@@ -10,7 +10,7 @@ Click [here](https://leetcode.com/explore/featured/card/july-leetcoding-challeng
 Solutions in various programming languages are provided. Enjoy it. 
 
 1. [Arranging Coins](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/01-Arranging-Coins): Maths
-
+2. [Binary Tree Level Order Traversal II](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/02-Binary-Tree-Level-Order-Traversal-II): DFS
 
 
 

@@ -1,4 +1,4 @@
-class Solution {
+class Solution1 {
 public:
     vector<int> prisonAfterNDays(vector<int>& cells, int N) {
         // vector<vector<int>> memo;
@@ -17,6 +17,22 @@ public:
             memo.push_back(cpy);
             */
             swap(cells, cpy);
+        }
+        return cells;
+    }
+};
+
+
+class Solution2 {
+public:
+    vector<int> prisonAfterNDays(vector<int>& cells, int N) {      
+        N = N % 14;
+        if (N == 0) N = 14;
+        vector<int> v(8, 0); 
+        for (int j = 0; j < N; j++){
+            for(int i = 1; i < 7; i++) 
+                v[i] = (cells[i-1] == cells[i+1]) ? 1 : 0;
+            cells = v;
         }
         return cells;
     }

@@ -15,6 +15,8 @@ Solutions in various programming languages are provided. Enjoy it.
 4. [Ugly Number II](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/04-Ugly-Number-II): DP
 5. [Hamming Distance](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/05-Hamming-Distance): Bitwise Manipulation
 6. [Plus One](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/06-Plus-One): Maths
+7. [Island Perimeter](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/07-Island-Perimeter): BFS
+
 
 ## June LeetCoding Challenge
 Click [here](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/) for problem descriptions.

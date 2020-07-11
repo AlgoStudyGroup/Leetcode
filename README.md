@@ -19,6 +19,7 @@ Solutions in various programming languages are provided. Enjoy it.
 8. [3Sum](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/08-3Sum): Two pointers
 9. [Maximum Width of Binary Tree](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/09-Maximum-Width-of-Binary-Tree): DFS
 10. [Flatten a Multilevel Doubly Linked List](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/10-Flatten-a-Multilevel-Doubly-Linked-List): Queue
+11. [Subsets](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/11-Subsets): Backtrack
 
 ## June LeetCoding Challenge
 Click [here](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/) for problem descriptions.

@@ -2,12 +2,10 @@
 
 https://leetcode.com
 
-
-
 ## July LeetCoding Challenge
 Click [here](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/) for problem descriptions.
 
-Solutions in various programming languages are provided. Enjoy it. 
+Solutions in various programming languages are provided. Enjoy it.
 
 1. [Arranging Coins](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/01-Arranging-Coins): Maths
 2. [Binary Tree Level Order Traversal II](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/02-Binary-Tree-Level-Order-Traversal-II): DFS
@@ -20,11 +18,13 @@ Solutions in various programming languages are provided. Enjoy it.
 9. [Maximum Width of Binary Tree](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/09-Maximum-Width-of-Binary-Tree): DFS
 10. [Flatten a Multilevel Doubly Linked List](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/10-Flatten-a-Multilevel-Doubly-Linked-List): Queue
 11. [Subsets](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/11-Subsets): DP
+12. [Reverse Bits](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/12-Reverse-Bits): Bitwise
+13. [Same Tree](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/13-Same-Tree): DFS
 
 ## June LeetCoding Challenge
 Click [here](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/) for problem descriptions.
 
-Solutions in various programming languages are provided. Enjoy it. 
+Solutions in various programming languages are provided. Enjoy it.
 
 1. [Invert Binary Tree](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/01-Invert-Binary-Tree): Tree Traversal
 2. [Delete Node in a Linked List](https://github.com/AlgoStudyGroup/Leetcode/tree/master/June-LeetCoding-Challenge/02-Delete-Node-In-A-Linked-List): Linked List

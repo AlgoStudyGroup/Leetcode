@@ -20,6 +20,7 @@ Solutions in various programming languages are provided. Enjoy it.
 11. [Subsets](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/11-Subsets): DP
 12. [Reverse Bits](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/12-Reverse-Bits): Bitwise
 13. [Same Tree](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/13-Same-Tree): DFS
+14. [Angle Between Hands of a Clock](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/14-Angle-Between-Hands-of-a-Clock): Math
 
 ## June LeetCoding Challenge
 Click [here](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/) for problem descriptions.

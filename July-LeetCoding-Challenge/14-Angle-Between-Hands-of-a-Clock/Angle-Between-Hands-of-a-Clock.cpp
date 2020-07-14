@@ -6,4 +6,4 @@ public:
         double t = abs(f1 - f2);
         return min(t, 360 - t);
     }
-};
+};	

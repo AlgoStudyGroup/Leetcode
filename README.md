@@ -21,6 +21,7 @@ Solutions in various programming languages are provided. Enjoy it.
 12. [Reverse Bits](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/12-Reverse-Bits): Bitwise
 13. [Same Tree](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/13-Same-Tree): DFS
 14. [Angle Between Hands of a Clock](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/14-Angle-Between-Hands-of-a-Clock): Math
+15. [Reverse Words in a String](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/15-Reverse-Words-in-a-String): Pointer
 
 ## June LeetCoding Challenge
 Click [here](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/) for problem descriptions.

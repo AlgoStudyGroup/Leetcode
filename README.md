@@ -24,6 +24,8 @@ Solutions in various programming languages are provided. Enjoy it.
 15. [Reverse Words in a String](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/15-Reverse-Words-in-a-String): Pointer
 16. [Pow(x,n)](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/16-Pow(x,n)): Recursion
 17. [Top K Frequent Elements](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/17-Top-K-Frequent-Elements): Bucket
+18. [Course Schedule II](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/18-Course-Schedule-II): BFS
+
 
 ## June LeetCoding Challenge
 Click [here](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/) for problem descriptions.

@@ -25,7 +25,7 @@ Solutions in various programming languages are provided. Enjoy it.
 16. [Pow(x,n)](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/16-Pow(x,n)): Recursion
 17. [Top K Frequent Elements](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/17-Top-K-Frequent-Elements): Bucket
 18. [Course Schedule II](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/18-Course-Schedule-II): BFS
-
+19. [Add Binary](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/19-Add-Binary)
 
 ## June LeetCoding Challenge
 Click [here](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/) for problem descriptions.

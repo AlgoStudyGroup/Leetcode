@@ -27,6 +27,7 @@ Solutions in various programming languages are provided. Enjoy it.
 18. [Course Schedule II](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/18-Course-Schedule-II): BFS
 19. [Add Binary](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/19-Add-Binary)
 20. [Remove Linked List Elements](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/20-Remove-Linked-List-Elements)
+21. [Word Search](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/21-Word-Search)
 
 ## June LeetCoding Challenge
 Click [here](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/) for problem descriptions.

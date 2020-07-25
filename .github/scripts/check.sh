@@ -1,9 +1,9 @@
 #!/bin/bash
 #
-# Check file naming convention of challenges.
+# Check file naming convention of all the challenges.
 #
 # Usage:
-#     check.sh May-LeetCoding-Challenge
+#     check.sh
 #
 cd "$(dirname ${BASH_SOURCE})"/../..
 

@@ -1,34 +1,37 @@
 #!/bin/bash
 #
-# Check file naming convention of challenges.
+# Check file naming convention of all the challenges.
 #
 # Usage:
-#     check.sh May-LeetCoding-Challenge
+#     check.sh
 #
 cd "$(dirname ${BASH_SOURCE})"/../..
 
-challenge_dir="${PWD}/${1}"
 errors=0
 
-echo "Checking ${challenge_dir}"
-echo
-
-for question_path in $challenge_dir/*
+for challenge_dir in $PWD/*-Challenge
 do
-    dirname="${question_path##*/}"  # remove parent directoris
-    question="${dirname#*-}"        # remove leading day prefix
-    echo "Question ${dirname}:"
+    echo "Checking ${challenge_dir}"
+    echo
 
-    for filepath in $question_path/*
+    for question_path in $challenge_dir/*
     do
-        filename="${filepath##*/}"
-        if [[ "${filename%.*}" == "$question" || "$filename" == "README.md" ]]
-        then
-            echo "  PASSED: ${filename}"
-        else
-            echo "  FAILED: ${filename}"
-            errors=$((errors + 1))
-        fi
+        dirname="${question_path##*/}"  # remove parent directoris
+        question="${dirname#*-}"        # remove leading day prefix
+        echo "Question ${dirname}:"
+
+        for filepath in $question_path/*
+        do
+            filename="${filepath##*/}"
+            if [[ "${filename%.*}" == "$question" || "$filename" == "README.md" ]]
+            then
+                echo "  PASSED: ${filename}"
+            else
+                echo "  FAILED: ${filename}"
+                errors=$((errors + 1))
+            fi
+        done
+        echo
     done
     echo
 done

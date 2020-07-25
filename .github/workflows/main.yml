@@ -10,7 +10,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Check LeetCoding Challenge Apr 2020
-      run: .github/scripts/check.sh 30-Day-Leetcoding-Challenge
-    - name: Check LeetCoding Challenge May 2020
-      run: .github/scripts/check.sh May-LeetCoding-Challenge
+    - name: Check File Naming
+      run: .github/scripts/check.sh

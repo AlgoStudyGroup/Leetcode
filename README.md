@@ -28,6 +28,12 @@ Solutions in various programming languages are provided. Enjoy it.
 19. [Add Binary](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/19-Add-Binary)
 20. [Remove Linked List Elements](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/20-Remove-Linked-List-Elements)
 21. [Word Search](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/21-Word-Search)
+22. [Binary Tree Zigzag Level Order Traversal](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/22-Binary-Tree-Zigzag-Level-Order-Traversal)
+23. [Single Number III](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/23-Single-Number-III)
+24. [All Paths From Source to Target](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/24-All-Paths-From-Source-to-Target)
+25. [Find Minimum in Rotated Sorted Array II](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/25-Find-Minimum-in-Rotated-Sorted-Array-II)
+26. [Add Digits](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/26-Add-Digits)
+27. [Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/27-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal)
 
 ## June LeetCoding Challenge
 Click [here](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/) for problem descriptions.

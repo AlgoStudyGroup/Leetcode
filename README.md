@@ -34,6 +34,7 @@ Solutions in various programming languages are provided. Enjoy it.
 25. [Find Minimum in Rotated Sorted Array II](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/25-Find-Minimum-in-Rotated-Sorted-Array-II)
 26. [Add Digits](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/26-Add-Digits)
 27. [Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/27-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal)
+28. [Task Scheduler](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/28-Task-Scheduler)
 
 ## June LeetCoding Challenge
 Click [here](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/) for problem descriptions.

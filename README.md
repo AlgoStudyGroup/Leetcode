@@ -36,6 +36,8 @@ Solutions in various programming languages are provided. Enjoy it.
 27. [Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/27-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal)
 28. [Task Scheduler](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/28-Task-Scheduler)
 29. [Best Time to Buy and Sell Stock with Cooldown](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/29-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown): State machine
+30. [Word Break II](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/30-Word-Break-II)
+31. [Climbing Stairs](https://github.com/AlgoStudyGroup/Leetcode/tree/master/July-LeetCoding-Challenge/31-Climbing-Stairs): DP
 
 
 ## June LeetCoding Challenge

@@ -2,7 +2,6 @@
 
 https://leetcode.com
 
-
 ## August LeetCoding Challenge
 Click [here](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/) for problem descriptions.
 
@@ -10,6 +9,7 @@ Solutions in various programming languages are provided. Enjoy it.
 
 1. [Detect Capital](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/01-Detect-Capital)
 2. [Design HashSet](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/02-Design-HashSet)
+3. [Valid Palindrome](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/03-Valid-Palindrome)
 
 ## July LeetCoding Challenge
 Click [here](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/) for problem descriptions.

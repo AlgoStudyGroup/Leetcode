@@ -10,6 +10,7 @@ Solutions in various programming languages are provided. Enjoy it.
 1. [Detect Capital](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/01-Detect-Capital)
 2. [Design HashSet](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/02-Design-HashSet)
 3. [Valid Palindrome](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/03-Valid-Palindrome)
+4. [Power of Four](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/04-Power-of-Four)
 
 ## July LeetCoding Challenge
 Click [here](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/) for problem descriptions.

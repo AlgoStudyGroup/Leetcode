@@ -11,6 +11,7 @@ Solutions in various programming languages are provided. Enjoy it.
 2. [Design HashSet](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/02-Design-HashSet)
 3. [Valid Palindrome](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/03-Valid-Palindrome)
 4. [Power of Four](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/04-Power-of-Four)
+5. [Add and Search Word Data structure design](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/05-Add-and-Search-Word-Data-structure-design)
 
 ## July LeetCoding Challenge
 Click [here](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/) for problem descriptions.

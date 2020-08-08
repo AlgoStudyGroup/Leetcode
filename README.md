@@ -14,6 +14,7 @@ Solutions in various programming languages are provided. Enjoy it.
 5. [Add and Search Word Data structure design](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/05-Add-and-Search-Word-Data-structure-design)
 6. [Find All Duplicates in an Array](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/06-Find-All-Duplicates-in-an-Array)
 7. [Vertical Order Traversal of a Binary Tree](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/07-Vertical-Order-Traversal-of-a-Binary-Tree)
+8. [Path Sum III](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/08-Path-Sum-III)
 
 ## July LeetCoding Challenge
 Click [here](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/) for problem descriptions.

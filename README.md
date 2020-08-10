@@ -16,6 +16,7 @@ Solutions in various programming languages are provided. Enjoy it.
 7. [Vertical Order Traversal of a Binary Tree](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/07-Vertical-Order-Traversal-of-a-Binary-Tree)
 8. [Path Sum III](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/08-Path-Sum-III)
 9. [Rotting Oranges](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/09-Rotting-Oranges)
+10. [Excel Sheet Column Number](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/10-Excel-Sheet-Column-Number)
 
 ## July LeetCoding Challenge
 Click [here](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/) for problem descriptions.

@@ -18,6 +18,7 @@ Solutions in various programming languages are provided. Enjoy it.
 9. [Rotting Oranges](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/09-Rotting-Oranges)
 10. [Excel Sheet Column Number](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/10-Excel-Sheet-Column-Number)
 11. [H-Index](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/11-H-Index)
+12. [Pascal's Triangle II](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/12-Pascal's-Triangle-II)
 
 ## July LeetCoding Challenge
 Click [here](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/) for problem descriptions.

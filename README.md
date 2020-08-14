@@ -20,6 +20,7 @@ Solutions in various programming languages are provided. Enjoy it.
 11. [H-Index](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/11-H-Index)
 12. [Pascal's Triangle II](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/12-Pascals-Triangle-II)
 13. [Iterator for Combination](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/13-Iterator-for-Combination)
+14. [Longest Palindrome](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/14-Longest-Palindrome)
 
 ## July LeetCoding Challenge
 Click [here](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/) for problem descriptions.

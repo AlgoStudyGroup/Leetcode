@@ -21,6 +21,7 @@ Solutions in various programming languages are provided. Enjoy it.
 12. [Pascal's Triangle II](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/12-Pascals-Triangle-II)
 13. [Iterator for Combination](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/13-Iterator-for-Combination)
 14. [Longest Palindrome](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/14-Longest-Palindrome)
+15. [Non-overlapping Intervals](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/15-Non-overlapping-Intervals)
 
 ## July LeetCoding Challenge
 Click [here](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/) for problem descriptions.

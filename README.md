@@ -22,6 +22,7 @@ Solutions in various programming languages are provided. Enjoy it.
 13. [Iterator for Combination](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/13-Iterator-for-Combination)
 14. [Longest Palindrome](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/14-Longest-Palindrome)
 15. [Non-overlapping Intervals](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/15-Non-overlapping-Intervals)
+16. [Best Time to Buy and Sell Stock III](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/16-Best-Time-to-Buy-and-Sell-Stock-III)
 
 ## July LeetCoding Challenge
 Click [here](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/) for problem descriptions.

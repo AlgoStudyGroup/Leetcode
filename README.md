@@ -24,6 +24,7 @@ Solutions in various programming languages are provided. Enjoy it.
 15. [Non-overlapping Intervals](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/15-Non-overlapping-Intervals)
 16. [Best Time to Buy and Sell Stock III](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/16-Best-Time-to-Buy-and-Sell-Stock-III)
 17. [Distribute Candies to People](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/17-Distribute-Candies-to-People)
+18. [Numbers With Same Consecutive Differences](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/18-Numbers-With-Same-Consecutive-Differences)
 
 ## July LeetCoding Challenge
 Click [here](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/) for problem descriptions.

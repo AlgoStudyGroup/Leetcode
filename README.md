@@ -26,6 +26,7 @@ Solutions in various programming languages are provided. Enjoy it.
 17. [Distribute Candies to People](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/17-Distribute-Candies-to-People)
 18. [Numbers With Same Consecutive Differences](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/18-Numbers-With-Same-Consecutive-Differences)
 19. [Goat Latin](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/19-Goat-Latin)
+20. [Reorder List](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/20-Reorder-List)
 
 ## July LeetCoding Challenge
 Click [here](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/) for problem descriptions.

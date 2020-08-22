@@ -28,6 +28,7 @@ Solutions in various programming languages are provided. Enjoy it.
 19. [Goat Latin](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/19-Goat-Latin)
 20. [Reorder List](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/20-Reorder-List)
 21. [Sort Array By Parity](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/21-Sort-Array-By-Parity)
+22. Random Point in Non-overlapping Rectangles](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/22-Random-Point-in-Non-overlapping-Rectangles)
 
 ## July LeetCoding Challenge
 Click [here](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/) for problem descriptions.

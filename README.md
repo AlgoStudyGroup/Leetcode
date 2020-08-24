@@ -30,6 +30,7 @@ Solutions in various programming languages are provided. Enjoy it.
 21. [Sort Array By Parity](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/21-Sort-Array-By-Parity)
 22. [Random Point in Non-overlapping Rectangles](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/22-Random-Point-in-Non-overlapping-Rectangles)
 23. [Stream of Characters](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/23-Stream-of-Characters)
+24. [Sum of Left Leaves](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/24-Sum-of-Left-Leaves)
 
 ## July LeetCoding Challenge
 Click [here](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/) for problem descriptions.

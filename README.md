@@ -31,6 +31,7 @@ Solutions in various programming languages are provided. Enjoy it.
 22. [Random Point in Non-overlapping Rectangles](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/22-Random-Point-in-Non-overlapping-Rectangles)
 23. [Stream of Characters](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/23-Stream-of-Characters)
 24. [Sum of Left Leaves](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/24-Sum-of-Left-Leaves)
+25. [Minimum Cost For Tickets](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/25-Minimum-Cost-For-Tickets)
 
 ## July LeetCoding Challenge
 Click [here](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/) for problem descriptions.

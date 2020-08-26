@@ -32,6 +32,7 @@ Solutions in various programming languages are provided. Enjoy it.
 23. [Stream of Characters](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/23-Stream-of-Characters)
 24. [Sum of Left Leaves](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/24-Sum-of-Left-Leaves)
 25. [Minimum Cost For Tickets](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/25-Minimum-Cost-For-Tickets)
+26. [Fizz Buzz](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/26-Fizz-Buzz)
 
 ## July LeetCoding Challenge
 Click [here](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/) for problem descriptions.

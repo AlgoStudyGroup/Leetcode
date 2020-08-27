@@ -33,6 +33,7 @@ Solutions in various programming languages are provided. Enjoy it.
 24. [Sum of Left Leaves](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/24-Sum-of-Left-Leaves)
 25. [Minimum Cost For Tickets](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/25-Minimum-Cost-For-Tickets)
 26. [Fizz Buzz](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/26-Fizz-Buzz)
+27. [Find Right Interval](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/27-Find-Right-Interval)
 
 ## July LeetCoding Challenge
 Click [here](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/) for problem descriptions.

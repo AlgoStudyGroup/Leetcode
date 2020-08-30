@@ -35,6 +35,7 @@ Solutions in various programming languages are provided. Enjoy it.
 26. [Fizz Buzz](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/26-Fizz-Buzz)
 27. [Find Right Interval](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/27-Find-Right-Interval)
 28. [Implement Rand10() Using Rand7()](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/28-Implement-Rand10()-Using-Rand7())
+29. [Pancake Sorting](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/29-Pancake-Sorting)
 
 ## July LeetCoding Challenge
 Click [here](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/) for problem descriptions.

@@ -37,6 +37,8 @@ Solutions in various programming languages are provided. Enjoy it.
 28. [Implement Rand10() Using Rand7()](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/28-Implement-Rand10()-Using-Rand7())
 29. [Pancake Sorting](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/29-Pancake-Sorting)
 30. [Largest Component Size by Common Factor](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/30-Largest-Component-Size-by-Common-Factor)
+31. [Delete Node in a BST](https://github.com/AlgoStudyGroup/Leetcode/tree/master/August-LeetCoding-Challenge/31-Delete-Node-in-a-BST)
+
 
 ## July LeetCoding Challenge
 Click [here](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/) for problem descriptions.

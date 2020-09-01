@@ -2,6 +2,13 @@
 
 https://leetcode.com
 
+## September LeetCoding Challenge
+Click [here](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge) for problem descriptions.
+
+Solutions in various programming languages are provided. Enjoy it.
+
+1. [Largest Time for Given Digits](https://github.com/AlgoStudyGroup/Leetcode/tree/master/September-LeetCoding-Challenge/01-Largest-Time-for-Given-Digits)
+
 ## August LeetCoding Challenge
 Click [here](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/) for problem descriptions.
 

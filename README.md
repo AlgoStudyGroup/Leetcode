@@ -8,6 +8,11 @@ Click [here](https://leetcode.com/explore/challenge/card/september-leetcoding-ch
 Solutions in various programming languages are provided. Enjoy it.
 
 1. [Largest Time for Given Digits](https://github.com/AlgoStudyGroup/Leetcode/tree/master/September-LeetCoding-Challenge/01-Largest-Time-for-Given-Digits)
+2. [Contains Duplicate III](https://github.com/AlgoStudyGroup/Leetcode/tree/master/September-LeetCoding-Challenge/02-Contains-Duplicate-III)
+3. [Repeated Substring Pattern](https://github.com/AlgoStudyGroup/Leetcode/tree/master/September-LeetCoding-Challenge/03-Repeated-Substring-Pattern)
+4. [Partition Labels](https://github.com/AlgoStudyGroup/Leetcode/tree/master/September-LeetCoding-Challenge/04-Partition-Labels)
+5. [All Elements in Two Binary Search Trees](https://github.com/AlgoStudyGroup/Leetcode/tree/master/September-LeetCoding-Challenge/05-All-Elements-in-Two-Binary-Search-Trees)
+6. [Image Overlap](https://github.com/AlgoStudyGroup/Leetcode/tree/master/September-LeetCoding-Challenge/06-Image-Overlap)
 
 ## August LeetCoding Challenge
 Click [here](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/) for problem descriptions.

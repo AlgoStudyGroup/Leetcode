@@ -13,6 +13,9 @@ Solutions in various programming languages are provided. Enjoy it.
 4. [Partition Labels](https://github.com/AlgoStudyGroup/Leetcode/tree/master/September-LeetCoding-Challenge/04-Partition-Labels)
 5. [All Elements in Two Binary Search Trees](https://github.com/AlgoStudyGroup/Leetcode/tree/master/September-LeetCoding-Challenge/05-All-Elements-in-Two-Binary-Search-Trees)
 6. [Image Overlap](https://github.com/AlgoStudyGroup/Leetcode/tree/master/September-LeetCoding-Challenge/06-Image-Overlap)
+7. [Word Pattern](https://github.com/AlgoStudyGroup/Leetcode/tree/master/September-LeetCoding-Challenge/07-Word-Pattern)
+8. [Sum of Root To Leaf Binary Numbers](https://github.com/AlgoStudyGroup/Leetcode/tree/master/September-LeetCoding-Challenge/08-Sum-of-Root-To-Leaf-Binary-Numbers)
+9. [Compare Version Numbers](https://github.com/AlgoStudyGroup/Leetcode/tree/master/September-LeetCoding-Challenge/09-Compare-Version-Numbers)
 
 ## August LeetCoding Challenge
 Click [here](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/) for problem descriptions.

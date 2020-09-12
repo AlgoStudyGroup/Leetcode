@@ -2,6 +2,24 @@
 
 https://leetcode.com
 
+## September LeetCoding Challenge
+Click [here](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge) for problem descriptions.
+
+Solutions in various programming languages are provided. Enjoy it.
+
+1. [Largest Time for Given Digits](https://github.com/AlgoStudyGroup/Leetcode/tree/master/September-LeetCoding-Challenge/01-Largest-Time-for-Given-Digits)
+2. [Contains Duplicate III](https://github.com/AlgoStudyGroup/Leetcode/tree/master/September-LeetCoding-Challenge/02-Contains-Duplicate-III)
+3. [Repeated Substring Pattern](https://github.com/AlgoStudyGroup/Leetcode/tree/master/September-LeetCoding-Challenge/03-Repeated-Substring-Pattern)
+4. [Partition Labels](https://github.com/AlgoStudyGroup/Leetcode/tree/master/September-LeetCoding-Challenge/04-Partition-Labels)
+5. [All Elements in Two Binary Search Trees](https://github.com/AlgoStudyGroup/Leetcode/tree/master/September-LeetCoding-Challenge/05-All-Elements-in-Two-Binary-Search-Trees)
+6. [Image Overlap](https://github.com/AlgoStudyGroup/Leetcode/tree/master/September-LeetCoding-Challenge/06-Image-Overlap)
+7. [Word Pattern](https://github.com/AlgoStudyGroup/Leetcode/tree/master/September-LeetCoding-Challenge/07-Word-Pattern)
+8. [Sum of Root To Leaf Binary Numbers](https://github.com/AlgoStudyGroup/Leetcode/tree/master/September-LeetCoding-Challenge/08-Sum-of-Root-To-Leaf-Binary-Numbers)
+9. [Compare Version Numbers](https://github.com/AlgoStudyGroup/Leetcode/tree/master/September-LeetCoding-Challenge/09-Compare-Version-Numbers)
+10. [Bulls and Cows](https://github.com/AlgoStudyGroup/Leetcode/tree/master/September-LeetCoding-Challenge/10-Bulls-and-Cows)
+11. [Maximum Product Subarray](https://github.com/AlgoStudyGroup/Leetcode/tree/master/September-LeetCoding-Challenge/11-Maximum-Product-Subarray)
+12. [Combination Sum III](https://github.com/AlgoStudyGroup/Leetcode/tree/master/September-LeetCoding-Challenge/12-Combination-Sum-III)
+
 ## August LeetCoding Challenge
 Click [here](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/) for problem descriptions.
 

@@ -21,6 +21,7 @@ Solutions in various programming languages are provided. Enjoy it.
 12. [Combination Sum III](https://github.com/AlgoStudyGroup/Leetcode/tree/master/September-LeetCoding-Challenge/12-Combination-Sum-III)
 13. [Insert Interval](https://github.com/AlgoStudyGroup/Leetcode/tree/master/September-LeetCoding-Challenge/13-Insert-Interval)
 14. [House Robber](https://github.com/AlgoStudyGroup/Leetcode/tree/master/September-LeetCoding-Challenge/14-House-Robber)
+15. [Length of Last Word](https://github.com/AlgoStudyGroup/Leetcode/tree/master/September-LeetCoding-Challenge/15-Length-of-Last-Word)
 
 ## August LeetCoding Challenge
 Click [here](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/) for problem descriptions.

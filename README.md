@@ -24,6 +24,8 @@ Solutions in various programming languages are provided. Enjoy it.
 15. [Length of Last Word](https://github.com/AlgoStudyGroup/Leetcode/tree/master/September-LeetCoding-Challenge/15-Length-of-Last-Word)
 16. [Maximum XOR of Two Numbers in an Array](https://github.com/AlgoStudyGroup/Leetcode/tree/master/September-LeetCoding-Challenge/16-Maximum-XOR-of-Two-Numbers-in-an-Array)
 17. [Robot Bounded In Circle](https://github.com/AlgoStudyGroup/Leetcode/tree/master/September-LeetCoding-Challenge/17-Robot-Bounded-In-Circle)
+18. [Best Time to Buy and Sell Stock](https://github.com/AlgoStudyGroup/Leetcode/tree/master/September-LeetCoding-Challenge/18-Best-Time-to-Buy-and-Sell-Stock)
+19. [Sequential Digits](https://github.com/AlgoStudyGroup/Leetcode/tree/master/September-LeetCoding-Challenge/19-Sequential-Digits)
 
 ## August LeetCoding Challenge
 Click [here](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/) for problem descriptions.

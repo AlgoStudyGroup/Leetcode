@@ -2,6 +2,15 @@
 
 https://leetcode.com
 
+
+## October LeetCoding Challenge
+Click [here](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/) for problem descriptions.
+
+Solutions in various programming languages are provided. Enjoy it.
+
+1. [Number of Recent Calls](https://github.com/AlgoStudyGroup/Leetcode/tree/master/October-LeetCoding-Challenge/01-Number-of-Recent-Calls) : Queue
+
+
 ## September LeetCoding Challenge
 Click [here](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge) for problem descriptions.
 
@@ -28,6 +37,7 @@ Solutions in various programming languages are provided. Enjoy it.
 19. [Sequential Digits](https://github.com/AlgoStudyGroup/Leetcode/tree/master/September-LeetCoding-Challenge/19-Sequential-Digits)
 23. [Gas Station](https://github.com/AlgoStudyGroup/Leetcode/tree/master/September-LeetCoding-Challenge/23-Gas-Station)
 28. [Subarray Product Less Than K](https://github.com/AlgoStudyGroup/Leetcode/tree/master/September-LeetCoding-Challenge/28-Subarray-Product-Less-Than-K)
+30. [First Missing Positive](https://github.com/AlgoStudyGroup/Leetcode/tree/master/September-LeetCoding-Challenge/30-First-Missing-Positive)
 
 ## August LeetCoding Challenge
 Click [here](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/) for problem descriptions.

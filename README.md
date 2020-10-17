@@ -9,7 +9,7 @@ Click [here](https://leetcode.com/explore/challenge/card/october-leetcoding-chal
 Solutions in various programming languages are provided. Enjoy it.
 
 1. [Number of Recent Calls](https://github.com/AlgoStudyGroup/Leetcode/tree/master/October-LeetCoding-Challenge/01-Number-of-Recent-Calls) : Queue
-
+4. [Remove Covered Intervals](https://github.com/AlgoStudyGroup/Leetcode/tree/master/October-LeetCoding-Challenge/04-Remove-Covered-Intervals)
 
 ## September LeetCoding Challenge
 Click [here](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge) for problem descriptions.

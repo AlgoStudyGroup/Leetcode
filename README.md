@@ -3,6 +3,35 @@
 https://leetcode.com
 
 
+## November LeetCoding Challenge
+Click [here](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/) for problem descriptions.
+
+Solutions in various programming languages are provided. Enjoy it.
+
+1. [Convert Binary Number in a Linked List to Integer](https://github.com/AlgoStudyGroup/Leetcode/tree/master/November-LeetCoding-Challenge/01-Convert-Binary-Number-in-a-Linked-List-to-Integer)
+2. [Insertion Sort List](https://github.com/AlgoStudyGroup/Leetcode/tree/master/November-LeetCoding-Challenge/02-Insertion-Sort-List)
+3. [Consecutive Characters](https://github.com/AlgoStudyGroup/Leetcode/tree/master/November-LeetCoding-Challenge/03-Consecutive-Characters)
+4. [Minimum Height Trees](https://github.com/AlgoStudyGroup/Leetcode/tree/master/November-LeetCoding-Challenge/04-Minimum-Height-Trees)
+5. [Minimum Cost to Move Chips to The Same Position](https://github.com/AlgoStudyGroup/Leetcode/tree/master/November-LeetCoding-Challenge/05-Minimum-Cost-to-Move-Chips-to-The-Same-Position)
+6. [Find the Smallest Divisor Given a Threshold](https://github.com/AlgoStudyGroup/Leetcode/tree/master/November-LeetCoding-Challenge/06-Find-the-Smallest-Divisor-Given-a-Threshold)
+7. [Add Two Numbers II](https://github.com/AlgoStudyGroup/Leetcode/tree/master/November-LeetCoding-Challenge/07-Add-Two-Numbers-II)
+8. [Binary Tree Tilt](https://github.com/AlgoStudyGroup/Leetcode/tree/master/November-LeetCoding-Challenge/08-Binary-Tree-Tilt)
+9. [Maximum Difference Between Node and Ancestor](https://github.com/AlgoStudyGroup/Leetcode/tree/master/November-LeetCoding-Challenge/09-Maximum-Difference-Between-Node-and-Ancestor)
+10. [Flipping an Image](https://github.com/AlgoStudyGroup/Leetcode/tree/master/November-LeetCoding-Challenge/10-Flipping-an-Image)
+11. [Valid Square](https://github.com/AlgoStudyGroup/Leetcode/tree/master/November-LeetCoding-Challenge/11-Valid-Square)
+12. [Permutations II](https://github.com/AlgoStudyGroup/Leetcode/tree/master/November-LeetCoding-Challenge/12-Permutations-II)
+13. [Populating Next Right Pointers in Each Node](https://github.com/AlgoStudyGroup/Leetcode/tree/master/November-LeetCoding-Challenge/13-Populating-Next-Right-Pointers-in-Each-Node)
+14. [Poor Pigs](https://github.com/AlgoStudyGroup/Leetcode/tree/master/November-LeetCoding-Challenge/14-Poor-Pigs)
+15. [Range Sum of BST](https://github.com/AlgoStudyGroup/Leetcode/tree/master/November-LeetCoding-Challenge/15-Range-Sum-of-BST)
+16. [Longest Mountain in Array](https://github.com/AlgoStudyGroup/Leetcode/tree/master/November-LeetCoding-Challenge/16-Longest-Mountain-in-Array)
+17. [Mirror Reflection](https://github.com/AlgoStudyGroup/Leetcode/tree/master/November-LeetCoding-Challenge/17-Mirror-Reflection)
+18. [Merge Intervals](https://github.com/AlgoStudyGroup/Leetcode/tree/master/November-LeetCoding-Challenge/18-Merge-Intervals)
+19. [Decode String](https://github.com/AlgoStudyGroup/Leetcode/tree/master/November-LeetCoding-Challenge/19-Decode-String)
+20. [Search in Rotated Sorted Array II](https://github.com/AlgoStudyGroup/Leetcode/tree/master/November-LeetCoding-Challenge/20-Search-in-Rotated-Sorted-Array-II)
+21. [Numbers At Most N Given Digit Set](https://github.com/AlgoStudyGroup/Leetcode/tree/master/November-LeetCoding-Challenge/21-Numbers-At-Most-N-Given-Digit-Set)
+22. [Unique Morse Code Words](https://github.com/AlgoStudyGroup/Leetcode/tree/master/November-LeetCoding-Challenge/22-Unique-Morse-Code-Words)
+
+
 ## October LeetCoding Challenge
 Click [here](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/) for problem descriptions.
 

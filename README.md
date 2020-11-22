@@ -9,7 +9,37 @@ Click [here](https://leetcode.com/explore/challenge/card/october-leetcoding-chal
 Solutions in various programming languages are provided. Enjoy it.
 
 1. [Number of Recent Calls](https://github.com/AlgoStudyGroup/Leetcode/tree/master/October-LeetCoding-Challenge/01-Number-of-Recent-Calls) : Queue
+2. [Combination Sum](https://github.com/AlgoStudyGroup/Leetcode/tree/master/October-LeetCoding-Challenge/02-Combination-Sum)
+3. [K-diff Pairs in an Array](https://github.com/AlgoStudyGroup/Leetcode/tree/master/October-LeetCoding-Challenge/03-K-diff-Pairs-in-an-Array)
 4. [Remove Covered Intervals](https://github.com/AlgoStudyGroup/Leetcode/tree/master/October-LeetCoding-Challenge/04-Remove-Covered-Intervals)
+5. [Complement of Base 10 Integer](https://github.com/AlgoStudyGroup/Leetcode/tree/master/October-LeetCoding-Challenge/05-Complement-of-Base-10-Integer)
+6. [Insert into a Binary Search Tree](https://github.com/AlgoStudyGroup/Leetcode/tree/master/October-LeetCoding-Challenge/06-Insert-into-a-Binary-Search-Tree)
+7. [Rotate List](https://github.com/AlgoStudyGroup/Leetcode/tree/master/October-LeetCoding-Challenge/07-Rotate-List)
+8. [Binary Search](https://github.com/AlgoStudyGroup/Leetcode/tree/master/October-LeetCoding-Challenge/08-Binary-Search)
+9. [Serialize and Deserialize BST](https://github.com/AlgoStudyGroup/Leetcode/tree/master/October-LeetCoding-Challenge/09-Serialize-and-Deserialize-BST)
+10. [Minimum Number of Arrows to Burst Balloons](https://github.com/AlgoStudyGroup/Leetcode/tree/master/October-LeetCoding-Challenge/10-Minimum-Number-of-Arrows-to-Burst-Balloons)
+11. [Remove Duplicate Letters](https://github.com/AlgoStudyGroup/Leetcode/tree/master/October-LeetCoding-Challenge/11-Remove-Duplicate-Letters)
+12. [Buddy Strings](https://github.com/AlgoStudyGroup/Leetcode/tree/master/October-LeetCoding-Challenge/12-Buddy-Strings)
+13. [Sort List](https://github.com/AlgoStudyGroup/Leetcode/tree/master/October-LeetCoding-Challenge/13-Sort-List)
+14. [House Robber II](https://github.com/AlgoStudyGroup/Leetcode/tree/master/October-LeetCoding-Challenge/14-House-Robber-II)
+15. [Rotate Array](https://github.com/AlgoStudyGroup/Leetcode/tree/master/October-LeetCoding-Challenge/15-Rotate-Array)
+16. [Search a 2D Matrix](https://github.com/AlgoStudyGroup/Leetcode/tree/master/October-LeetCoding-Challenge/16-Search-a-2D-Matrix)
+17. [Repeated DNA Sequences](https://github.com/AlgoStudyGroup/Leetcode/tree/master/October-LeetCoding-Challenge/17-Repeated-DNA-Sequences)
+18. [Best Time to Buy and Sell Stock IV](https://github.com/AlgoStudyGroup/Leetcode/tree/master/October-LeetCoding-Challenge/18-Best-Time-to-Buy-and-Sell-Stock-IV)
+19. [Minimum Domino Rotations For Equal Row](https://github.com/AlgoStudyGroup/Leetcode/tree/master/October-LeetCoding-Challenge/19-Minimum-Domino-Rotations-For-Equal-Row)
+20. [Clone Graph](https://github.com/AlgoStudyGroup/Leetcode/tree/master/October-LeetCoding-Challenge/20-Clone-Graph)
+21. [Asteroid Collision](https://github.com/AlgoStudyGroup/Leetcode/tree/master/October-LeetCoding-Challenge/21-Asteroid-Collision)
+22. [Minimum Depth of Binary Tree](https://github.com/AlgoStudyGroup/Leetcode/tree/master/October-LeetCoding-Challenge/22-Minimum-Depth-of-Binary-Tree)
+23. [132 Pattern](https://github.com/AlgoStudyGroup/Leetcode/tree/master/October-LeetCoding-Challenge/23-132-Pattern)
+24. [Bag of Tokens](https://github.com/AlgoStudyGroup/Leetcode/tree/master/October-LeetCoding-Challenge/24-Bag-of-Tokens)
+25. [Stone Game IV](https://github.com/AlgoStudyGroup/Leetcode/tree/master/October-LeetCoding-Challenge/25-Stone-Game-IV)
+26. [Champagne Tower](https://github.com/AlgoStudyGroup/Leetcode/tree/master/October-LeetCoding-Challenge/26-Champagne-Tower)
+27. [Linked List Cycle II](https://github.com/AlgoStudyGroup/Leetcode/tree/master/October-LeetCoding-Challenge/27-Linked-List-Cycle-II)
+28. [Summary Ranges](https://github.com/AlgoStudyGroup/Leetcode/tree/master/October-LeetCoding-Challenge/28-Summary-Ranges)
+29. [Maximum Distance to Closest Person](https://github.com/AlgoStudyGroup/Leetcode/tree/master/October-LeetCoding-Challenge/29-Maximum-Distance-to-Closest-Person)
+30. [Number of Longest Increasing Subsequence](https://github.com/AlgoStudyGroup/Leetcode/tree/master/October-LeetCoding-Challenge/30-Number-of-Longest-Increasing-Subsequence)
+31. [Recover Binary Search Tree](https://github.com/AlgoStudyGroup/Leetcode/tree/master/October-LeetCoding-Challenge/31-Recover-Binary-Search-Tree)
+
 
 ## September LeetCoding Challenge
 Click [here](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge) for problem descriptions.

@@ -3,6 +3,12 @@
 https://leetcode.com
 
 
+## November LeetCoding Challenge
+Click [here](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/) for problem descriptions.
+
+Solutions in various programming languages are provided. Enjoy it.
+
+
 ## October LeetCoding Challenge
 Click [here](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/) for problem descriptions.
 
